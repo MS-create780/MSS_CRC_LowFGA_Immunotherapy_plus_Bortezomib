@@ -1,0 +1,1566 @@
+,newsite,SpecimenType,PatientBarcode,ProcessingMethod,MSI.state,seurat_clusters,n,HistologicTypeSimple
+2,LEFT,N,C124,CD45pMACS,MSS,1,2,Adenocarcinoma
+3,LEFT,N,C124,CD45pMACS,MSS,2,1,Adenocarcinoma
+4,LEFT,N,C124,CD45pMACS,MSS,3,1,Adenocarcinoma
+5,LEFT,N,C124,CD45pMACS,MSS,4,400,Adenocarcinoma
+6,LEFT,N,C124,CD45pMACS,MSS,5,405,Adenocarcinoma
+7,LEFT,N,C124,CD45pMACS,MSS,6,295,Adenocarcinoma
+8,LEFT,N,C124,CD45pMACS,MSS,7,1014,Adenocarcinoma
+9,LEFT,N,C124,CD45pMACS,MSS,9,88,Adenocarcinoma
+10,LEFT,N,C124,CD45pMACS,MSS,12,39,Adenocarcinoma
+11,LEFT,N,C124,CD45pMACS,MSS,13,1,Adenocarcinoma
+12,LEFT,N,C124,CD45pMACS,MSS,17,81,Adenocarcinoma
+13,LEFT,N,C124,CD45pMACS,MSS,22,25,Adenocarcinoma
+15,LEFT,N,C124,unosrted,MSS,1,2,Adenocarcinoma
+16,LEFT,N,C124,unosrted,MSS,2,1,Adenocarcinoma
+17,LEFT,N,C124,unosrted,MSS,4,398,Adenocarcinoma
+18,LEFT,N,C124,unosrted,MSS,5,444,Adenocarcinoma
+19,LEFT,N,C124,unosrted,MSS,6,190,Adenocarcinoma
+20,LEFT,N,C124,unosrted,MSS,7,1331,Adenocarcinoma
+21,LEFT,N,C124,unosrted,MSS,9,229,Adenocarcinoma
+22,LEFT,N,C124,unosrted,MSS,12,93,Adenocarcinoma
+23,LEFT,N,C124,unosrted,MSS,13,9,Adenocarcinoma
+24,LEFT,N,C124,unosrted,MSS,17,102,Adenocarcinoma
+25,LEFT,N,C124,unosrted,MSS,22,74,Adenocarcinoma
+27,LEFT,N,C125,CD45pMACS,MSS,4,182,Adenocarcinoma
+28,LEFT,N,C125,CD45pMACS,MSS,5,109,Adenocarcinoma
+29,LEFT,N,C125,CD45pMACS,MSS,6,81,Adenocarcinoma
+30,LEFT,N,C125,CD45pMACS,MSS,7,78,Adenocarcinoma
+31,LEFT,N,C125,CD45pMACS,MSS,9,28,Adenocarcinoma
+32,LEFT,N,C125,CD45pMACS,MSS,12,68,Adenocarcinoma
+33,LEFT,N,C125,CD45pMACS,MSS,13,2,Adenocarcinoma
+34,LEFT,N,C125,CD45pMACS,MSS,17,28,Adenocarcinoma
+35,LEFT,N,C125,CD45pMACS,MSS,22,9,Adenocarcinoma
+37,LEFT,N,C125,unosrted,MSS,3,1,Adenocarcinoma
+38,LEFT,N,C125,unosrted,MSS,4,203,Adenocarcinoma
+39,LEFT,N,C125,unosrted,MSS,5,97,Adenocarcinoma
+40,LEFT,N,C125,unosrted,MSS,6,21,Adenocarcinoma
+41,LEFT,N,C125,unosrted,MSS,7,128,Adenocarcinoma
+42,LEFT,N,C125,unosrted,MSS,8,2,Adenocarcinoma
+43,LEFT,N,C125,unosrted,MSS,9,66,Adenocarcinoma
+44,LEFT,N,C125,unosrted,MSS,10,2,Adenocarcinoma
+45,LEFT,N,C125,unosrted,MSS,12,48,Adenocarcinoma
+46,LEFT,N,C125,unosrted,MSS,17,55,Adenocarcinoma
+47,LEFT,N,C125,unosrted,MSS,22,27,Adenocarcinoma
+49,LEFT,N,C129,CD45pMACS,MSS,4,30,Adenocarcinoma
+50,LEFT,N,C129,CD45pMACS,MSS,5,15,Adenocarcinoma
+51,LEFT,N,C129,CD45pMACS,MSS,6,9,Adenocarcinoma
+52,LEFT,N,C129,CD45pMACS,MSS,7,14,Adenocarcinoma
+53,LEFT,N,C129,CD45pMACS,MSS,9,8,Adenocarcinoma
+54,LEFT,N,C129,CD45pMACS,MSS,12,2,Adenocarcinoma
+55,LEFT,N,C129,CD45pMACS,MSS,13,2,Adenocarcinoma
+56,LEFT,N,C129,CD45pMACS,MSS,17,33,Adenocarcinoma
+57,LEFT,N,C129,CD45pMACS,MSS,22,2,Adenocarcinoma
+59,LEFT,N,C129,unosrted,MSS,4,35,Adenocarcinoma
+60,LEFT,N,C129,unosrted,MSS,5,14,Adenocarcinoma
+61,LEFT,N,C129,unosrted,MSS,6,21,Adenocarcinoma
+62,LEFT,N,C129,unosrted,MSS,7,19,Adenocarcinoma
+63,LEFT,N,C129,unosrted,MSS,9,72,Adenocarcinoma
+64,LEFT,N,C129,unosrted,MSS,12,61,Adenocarcinoma
+65,LEFT,N,C129,unosrted,MSS,13,2,Adenocarcinoma
+66,LEFT,N,C129,unosrted,MSS,17,71,Adenocarcinoma
+67,LEFT,N,C129,unosrted,MSS,22,12,Adenocarcinoma
+69,LEFT,N,C132,unosrted,MLH1 and PMS2 deficient,2,1,Adenocarcinoma
+70,LEFT,N,C132,unosrted,MLH1 and PMS2 deficient,4,16,Adenocarcinoma
+71,LEFT,N,C132,unosrted,MLH1 and PMS2 deficient,5,9,Adenocarcinoma
+72,LEFT,N,C132,unosrted,MLH1 and PMS2 deficient,6,141,Adenocarcinoma
+73,LEFT,N,C132,unosrted,MLH1 and PMS2 deficient,7,7,Adenocarcinoma
+74,LEFT,N,C132,unosrted,MLH1 and PMS2 deficient,9,33,Adenocarcinoma
+75,LEFT,N,C132,unosrted,MLH1 and PMS2 deficient,12,505,Adenocarcinoma
+76,LEFT,N,C132,unosrted,MLH1 and PMS2 deficient,13,1,Adenocarcinoma
+77,LEFT,N,C132,unosrted,MLH1 and PMS2 deficient,17,1,Adenocarcinoma
+78,LEFT,N,C132,unosrted,MLH1 and PMS2 deficient,22,126,Adenocarcinoma
+79,LEFT,N,C134,CD45pMACS,MSS,1,1,Adenocarcinoma
+80,LEFT,N,C134,CD45pMACS,MSS,4,179,Adenocarcinoma
+81,LEFT,N,C134,CD45pMACS,MSS,5,54,Adenocarcinoma
+82,LEFT,N,C134,CD45pMACS,MSS,6,114,Adenocarcinoma
+83,LEFT,N,C134,CD45pMACS,MSS,7,6,Adenocarcinoma
+84,LEFT,N,C134,CD45pMACS,MSS,9,23,Adenocarcinoma
+85,LEFT,N,C134,CD45pMACS,MSS,10,1,Adenocarcinoma
+86,LEFT,N,C134,CD45pMACS,MSS,13,1,Adenocarcinoma
+87,LEFT,N,C134,CD45pMACS,MSS,17,10,Adenocarcinoma
+88,LEFT,N,C134,CD45pMACS,MSS,18,1,Adenocarcinoma
+89,LEFT,N,C134,CD45pMACS,MSS,22,1,Adenocarcinoma
+91,LEFT,N,C134,unosrted,MSS,1,2,Adenocarcinoma
+92,LEFT,N,C134,unosrted,MSS,2,1,Adenocarcinoma
+93,LEFT,N,C134,unosrted,MSS,4,106,Adenocarcinoma
+94,LEFT,N,C134,unosrted,MSS,5,33,Adenocarcinoma
+95,LEFT,N,C134,unosrted,MSS,6,42,Adenocarcinoma
+96,LEFT,N,C134,unosrted,MSS,7,8,Adenocarcinoma
+97,LEFT,N,C134,unosrted,MSS,9,31,Adenocarcinoma
+98,LEFT,N,C134,unosrted,MSS,10,1,Adenocarcinoma
+99,LEFT,N,C134,unosrted,MSS,12,10,Adenocarcinoma
+100,LEFT,N,C134,unosrted,MSS,17,7,Adenocarcinoma
+101,LEFT,N,C134,unosrted,MSS,18,1,Adenocarcinoma
+102,LEFT,N,C134,unosrted,MSS,22,9,Adenocarcinoma
+104,LEFT,N,C136,CD45pMACS,MSS,4,140,Adenocarcinoma
+105,LEFT,N,C136,CD45pMACS,MSS,5,139,Adenocarcinoma
+106,LEFT,N,C136,CD45pMACS,MSS,6,173,Adenocarcinoma
+107,LEFT,N,C136,CD45pMACS,MSS,7,28,Adenocarcinoma
+108,LEFT,N,C136,CD45pMACS,MSS,8,1,Adenocarcinoma
+109,LEFT,N,C136,CD45pMACS,MSS,9,27,Adenocarcinoma
+110,LEFT,N,C136,CD45pMACS,MSS,12,62,Adenocarcinoma
+111,LEFT,N,C136,CD45pMACS,MSS,13,1,Adenocarcinoma
+112,LEFT,N,C136,CD45pMACS,MSS,17,9,Adenocarcinoma
+114,LEFT,N,C136,unosrted,MSS,2,1,Adenocarcinoma
+115,LEFT,N,C136,unosrted,MSS,4,161,Adenocarcinoma
+116,LEFT,N,C136,unosrted,MSS,5,143,Adenocarcinoma
+117,LEFT,N,C136,unosrted,MSS,6,184,Adenocarcinoma
+118,LEFT,N,C136,unosrted,MSS,7,69,Adenocarcinoma
+119,LEFT,N,C136,unosrted,MSS,9,47,Adenocarcinoma
+120,LEFT,N,C136,unosrted,MSS,12,67,Adenocarcinoma
+121,LEFT,N,C136,unosrted,MSS,13,3,Adenocarcinoma
+122,LEFT,N,C136,unosrted,MSS,17,13,Adenocarcinoma
+123,LEFT,N,C136,unosrted,MSS,18,2,Adenocarcinoma
+124,LEFT,N,C136,unosrted,MSS,22,2,Adenocarcinoma
+126,LEFT,N,C140,unosrted,MSS,4,64,Adenocarcinoma
+127,LEFT,N,C140,unosrted,MSS,5,24,Adenocarcinoma
+128,LEFT,N,C140,unosrted,MSS,6,30,Adenocarcinoma
+129,LEFT,N,C140,unosrted,MSS,7,23,Adenocarcinoma
+130,LEFT,N,C140,unosrted,MSS,9,81,Adenocarcinoma
+131,LEFT,N,C140,unosrted,MSS,12,100,Adenocarcinoma
+132,LEFT,N,C140,unosrted,MSS,13,2,Adenocarcinoma
+133,LEFT,N,C140,unosrted,MSS,17,133,Adenocarcinoma
+134,LEFT,N,C140,unosrted,MSS,22,10,Adenocarcinoma
+136,LEFT,N,C157,unosrted,MSS,4,10,Adenocarcinoma
+137,LEFT,N,C157,unosrted,MSS,5,17,Adenocarcinoma
+138,LEFT,N,C157,unosrted,MSS,6,10,Adenocarcinoma
+139,LEFT,N,C157,unosrted,MSS,7,36,Adenocarcinoma
+140,LEFT,N,C157,unosrted,MSS,9,27,Adenocarcinoma
+141,LEFT,N,C157,unosrted,MSS,12,2,Adenocarcinoma
+142,LEFT,N,C157,unosrted,MSS,13,7,Adenocarcinoma
+143,LEFT,N,C157,unosrted,MSS,17,128,Adenocarcinoma
+144,LEFT,N,C157,unosrted,MSS,22,2,Adenocarcinoma
+146,LEFT,T,C103,LiveMACS,MSS,1,2,Adenocarcinoma
+147,LEFT,T,C103,LiveMACS,MSS,4,2,Adenocarcinoma
+148,LEFT,T,C103,LiveMACS,MSS,6,39,Adenocarcinoma
+149,LEFT,T,C103,LiveMACS,MSS,9,1,Adenocarcinoma
+151,LEFT,T,C103,unosrted,MSS,1,33,Adenocarcinoma
+152,LEFT,T,C103,unosrted,MSS,2,11,Adenocarcinoma
+153,LEFT,T,C103,unosrted,MSS,3,51,Adenocarcinoma
+154,LEFT,T,C103,unosrted,MSS,4,22,Adenocarcinoma
+155,LEFT,T,C103,unosrted,MSS,5,3,Adenocarcinoma
+156,LEFT,T,C103,unosrted,MSS,6,90,Adenocarcinoma
+157,LEFT,T,C103,unosrted,MSS,8,33,Adenocarcinoma
+158,LEFT,T,C103,unosrted,MSS,9,6,Adenocarcinoma
+159,LEFT,T,C103,unosrted,MSS,10,4,Adenocarcinoma
+160,LEFT,T,C103,unosrted,MSS,14,2493,Adenocarcinoma
+161,LEFT,T,C103,unosrted,MSS,15,1,Adenocarcinoma
+163,LEFT,T,C124,CD45pMACS,MSS,1,35,Adenocarcinoma
+164,LEFT,T,C124,CD45pMACS,MSS,2,6,Adenocarcinoma
+165,LEFT,T,C124,CD45pMACS,MSS,3,2,Adenocarcinoma
+166,LEFT,T,C124,CD45pMACS,MSS,4,13,Adenocarcinoma
+167,LEFT,T,C124,CD45pMACS,MSS,5,7,Adenocarcinoma
+168,LEFT,T,C124,CD45pMACS,MSS,6,21,Adenocarcinoma
+169,LEFT,T,C124,CD45pMACS,MSS,7,3,Adenocarcinoma
+170,LEFT,T,C124,CD45pMACS,MSS,9,13,Adenocarcinoma
+171,LEFT,T,C124,CD45pMACS,MSS,10,2,Adenocarcinoma
+172,LEFT,T,C124,CD45pMACS,MSS,13,40,Adenocarcinoma
+173,LEFT,T,C124,CD45pMACS,MSS,15,2,Adenocarcinoma
+174,LEFT,T,C124,CD45pMACS,MSS,17,5,Adenocarcinoma
+176,LEFT,T,C124,unosrted,MSS,1,122,Adenocarcinoma
+177,LEFT,T,C124,unosrted,MSS,2,15,Adenocarcinoma
+178,LEFT,T,C124,unosrted,MSS,3,8,Adenocarcinoma
+179,LEFT,T,C124,unosrted,MSS,4,52,Adenocarcinoma
+180,LEFT,T,C124,unosrted,MSS,5,15,Adenocarcinoma
+181,LEFT,T,C124,unosrted,MSS,6,50,Adenocarcinoma
+182,LEFT,T,C124,unosrted,MSS,7,7,Adenocarcinoma
+183,LEFT,T,C124,unosrted,MSS,9,76,Adenocarcinoma
+184,LEFT,T,C124,unosrted,MSS,12,10,Adenocarcinoma
+185,LEFT,T,C124,unosrted,MSS,13,188,Adenocarcinoma
+186,LEFT,T,C124,unosrted,MSS,15,4,Adenocarcinoma
+187,LEFT,T,C124,unosrted,MSS,17,15,Adenocarcinoma
+188,LEFT,T,C124,unosrted,MSS,18,4,Adenocarcinoma
+189,LEFT,T,C124,unosrted,MSS,22,5,Adenocarcinoma
+191,LEFT,T,C125,CD45pMACS,MSS,1,10,Adenocarcinoma
+192,LEFT,T,C125,CD45pMACS,MSS,3,334,Adenocarcinoma
+193,LEFT,T,C125,CD45pMACS,MSS,4,27,Adenocarcinoma
+194,LEFT,T,C125,CD45pMACS,MSS,5,20,Adenocarcinoma
+195,LEFT,T,C125,CD45pMACS,MSS,6,20,Adenocarcinoma
+196,LEFT,T,C125,CD45pMACS,MSS,8,187,Adenocarcinoma
+197,LEFT,T,C125,CD45pMACS,MSS,9,6,Adenocarcinoma
+198,LEFT,T,C125,CD45pMACS,MSS,10,1,Adenocarcinoma
+199,LEFT,T,C125,CD45pMACS,MSS,11,14,Adenocarcinoma
+200,LEFT,T,C125,CD45pMACS,MSS,14,3,Adenocarcinoma
+201,LEFT,T,C125,CD45pMACS,MSS,17,4,Adenocarcinoma
+202,LEFT,T,C125,CD45pMACS,MSS,22,1,Adenocarcinoma
+204,LEFT,T,C125,unosrted,MSS,1,1,Adenocarcinoma
+205,LEFT,T,C125,unosrted,MSS,2,2,Adenocarcinoma
+206,LEFT,T,C125,unosrted,MSS,3,330,Adenocarcinoma
+207,LEFT,T,C125,unosrted,MSS,4,26,Adenocarcinoma
+208,LEFT,T,C125,unosrted,MSS,5,16,Adenocarcinoma
+209,LEFT,T,C125,unosrted,MSS,6,17,Adenocarcinoma
+210,LEFT,T,C125,unosrted,MSS,7,1,Adenocarcinoma
+211,LEFT,T,C125,unosrted,MSS,8,248,Adenocarcinoma
+212,LEFT,T,C125,unosrted,MSS,9,14,Adenocarcinoma
+213,LEFT,T,C125,unosrted,MSS,11,8,Adenocarcinoma
+214,LEFT,T,C125,unosrted,MSS,13,1,Adenocarcinoma
+215,LEFT,T,C125,unosrted,MSS,14,1,Adenocarcinoma
+216,LEFT,T,C125,unosrted,MSS,17,5,Adenocarcinoma
+218,LEFT,T,C129,CD45pMACS,MSS,1,26,Adenocarcinoma
+219,LEFT,T,C129,CD45pMACS,MSS,2,11,Adenocarcinoma
+220,LEFT,T,C129,CD45pMACS,MSS,3,2,Adenocarcinoma
+221,LEFT,T,C129,CD45pMACS,MSS,4,27,Adenocarcinoma
+222,LEFT,T,C129,CD45pMACS,MSS,5,32,Adenocarcinoma
+223,LEFT,T,C129,CD45pMACS,MSS,6,33,Adenocarcinoma
+224,LEFT,T,C129,CD45pMACS,MSS,7,3,Adenocarcinoma
+225,LEFT,T,C129,CD45pMACS,MSS,9,14,Adenocarcinoma
+226,LEFT,T,C129,CD45pMACS,MSS,15,701,Adenocarcinoma
+227,LEFT,T,C129,CD45pMACS,MSS,17,4,Adenocarcinoma
+228,LEFT,T,C129,CD45pMACS,MSS,18,1,Adenocarcinoma
+229,LEFT,T,C129,CD45pMACS,MSS,20,1,Adenocarcinoma
+230,LEFT,T,C129,CD45pMACS,MSS,22,2,Adenocarcinoma
+232,LEFT,T,C129,unosrted,MSS,1,29,Adenocarcinoma
+233,LEFT,T,C129,unosrted,MSS,2,13,Adenocarcinoma
+234,LEFT,T,C129,unosrted,MSS,3,7,Adenocarcinoma
+235,LEFT,T,C129,unosrted,MSS,4,55,Adenocarcinoma
+236,LEFT,T,C129,unosrted,MSS,5,61,Adenocarcinoma
+237,LEFT,T,C129,unosrted,MSS,6,53,Adenocarcinoma
+238,LEFT,T,C129,unosrted,MSS,7,9,Adenocarcinoma
+239,LEFT,T,C129,unosrted,MSS,8,1,Adenocarcinoma
+240,LEFT,T,C129,unosrted,MSS,9,71,Adenocarcinoma
+241,LEFT,T,C129,unosrted,MSS,10,4,Adenocarcinoma
+242,LEFT,T,C129,unosrted,MSS,12,16,Adenocarcinoma
+243,LEFT,T,C129,unosrted,MSS,13,1,Adenocarcinoma
+244,LEFT,T,C129,unosrted,MSS,15,998,Adenocarcinoma
+245,LEFT,T,C129,unosrted,MSS,17,21,Adenocarcinoma
+246,LEFT,T,C129,unosrted,MSS,22,3,Adenocarcinoma
+248,LEFT,T,C132,CD45pMACS,MLH1 and PMS2 deficient,1,11,Adenocarcinoma
+249,LEFT,T,C132,CD45pMACS,MLH1 and PMS2 deficient,2,12,Adenocarcinoma
+250,LEFT,T,C132,CD45pMACS,MLH1 and PMS2 deficient,4,5,Adenocarcinoma
+251,LEFT,T,C132,CD45pMACS,MLH1 and PMS2 deficient,6,3,Adenocarcinoma
+252,LEFT,T,C132,CD45pMACS,MLH1 and PMS2 deficient,10,1,Adenocarcinoma
+253,LEFT,T,C132,CD45pMACS,MLH1 and PMS2 deficient,19,157,Adenocarcinoma
+255,LEFT,T,C132,unosrted,MLH1 and PMS2 deficient,1,28,Adenocarcinoma
+256,LEFT,T,C132,unosrted,MLH1 and PMS2 deficient,2,62,Adenocarcinoma
+257,LEFT,T,C132,unosrted,MLH1 and PMS2 deficient,4,9,Adenocarcinoma
+258,LEFT,T,C132,unosrted,MLH1 and PMS2 deficient,5,2,Adenocarcinoma
+259,LEFT,T,C132,unosrted,MLH1 and PMS2 deficient,6,2,Adenocarcinoma
+260,LEFT,T,C132,unosrted,MLH1 and PMS2 deficient,9,1,Adenocarcinoma
+261,LEFT,T,C132,unosrted,MLH1 and PMS2 deficient,12,1,Adenocarcinoma
+262,LEFT,T,C132,unosrted,MLH1 and PMS2 deficient,18,1,Adenocarcinoma
+263,LEFT,T,C132,unosrted,MLH1 and PMS2 deficient,19,741,Adenocarcinoma
+264,LEFT,T,C132,unosrted,MLH1 and PMS2 deficient,20,1,Adenocarcinoma
+266,LEFT,T,C134,CD45pMACS,MSS,1,5,Adenocarcinoma
+267,LEFT,T,C134,CD45pMACS,MSS,3,40,Adenocarcinoma
+268,LEFT,T,C134,CD45pMACS,MSS,8,1,Adenocarcinoma
+269,LEFT,T,C134,CD45pMACS,MSS,9,1,Adenocarcinoma
+270,LEFT,T,C134,CD45pMACS,MSS,15,1,Adenocarcinoma
+271,LEFT,T,C134,CD45pMACS,MSS,18,1,Adenocarcinoma
+273,LEFT,T,C134,unosrted,MSS,1,30,Adenocarcinoma
+274,LEFT,T,C134,unosrted,MSS,2,14,Adenocarcinoma
+275,LEFT,T,C134,unosrted,MSS,3,514,Adenocarcinoma
+276,LEFT,T,C134,unosrted,MSS,5,1,Adenocarcinoma
+277,LEFT,T,C134,unosrted,MSS,8,46,Adenocarcinoma
+278,LEFT,T,C134,unosrted,MSS,9,8,Adenocarcinoma
+279,LEFT,T,C134,unosrted,MSS,10,4,Adenocarcinoma
+280,LEFT,T,C134,unosrted,MSS,11,2,Adenocarcinoma
+281,LEFT,T,C134,unosrted,MSS,12,2,Adenocarcinoma
+282,LEFT,T,C134,unosrted,MSS,13,4,Adenocarcinoma
+283,LEFT,T,C134,unosrted,MSS,15,10,Adenocarcinoma
+284,LEFT,T,C134,unosrted,MSS,18,2,Adenocarcinoma
+285,LEFT,T,C134,unosrted,MSS,20,1,Adenocarcinoma
+287,LEFT,T,C136,CD45pMACS,MSS,1,12,Adenocarcinoma
+288,LEFT,T,C136,CD45pMACS,MSS,2,6,Adenocarcinoma
+289,LEFT,T,C136,CD45pMACS,MSS,3,379,Adenocarcinoma
+290,LEFT,T,C136,CD45pMACS,MSS,8,100,Adenocarcinoma
+291,LEFT,T,C136,CD45pMACS,MSS,9,2,Adenocarcinoma
+292,LEFT,T,C136,CD45pMACS,MSS,10,3,Adenocarcinoma
+293,LEFT,T,C136,CD45pMACS,MSS,14,2,Adenocarcinoma
+294,LEFT,T,C136,CD45pMACS,MSS,15,1,Adenocarcinoma
+295,LEFT,T,C136,CD45pMACS,MSS,18,1,Adenocarcinoma
+297,LEFT,T,C136,unosrted,MSS,1,9,Adenocarcinoma
+298,LEFT,T,C136,unosrted,MSS,2,2,Adenocarcinoma
+299,LEFT,T,C136,unosrted,MSS,3,399,Adenocarcinoma
+300,LEFT,T,C136,unosrted,MSS,4,1,Adenocarcinoma
+301,LEFT,T,C136,unosrted,MSS,8,153,Adenocarcinoma
+302,LEFT,T,C136,unosrted,MSS,9,2,Adenocarcinoma
+303,LEFT,T,C136,unosrted,MSS,11,1,Adenocarcinoma
+304,LEFT,T,C136,unosrted,MSS,14,1,Adenocarcinoma
+305,LEFT,T,C136,unosrted,MSS,15,3,Adenocarcinoma
+306,LEFT,T,C136,unosrted,MSS,18,1,Adenocarcinoma
+308,LEFT,T,C140,CD45pMACS,MSS,1,2,Adenocarcinoma
+309,LEFT,T,C140,CD45pMACS,MSS,2,1,Adenocarcinoma
+310,LEFT,T,C140,CD45pMACS,MSS,3,294,Adenocarcinoma
+311,LEFT,T,C140,CD45pMACS,MSS,4,4,Adenocarcinoma
+312,LEFT,T,C140,CD45pMACS,MSS,5,3,Adenocarcinoma
+313,LEFT,T,C140,CD45pMACS,MSS,6,4,Adenocarcinoma
+314,LEFT,T,C140,CD45pMACS,MSS,8,177,Adenocarcinoma
+315,LEFT,T,C140,CD45pMACS,MSS,9,8,Adenocarcinoma
+316,LEFT,T,C140,CD45pMACS,MSS,10,1,Adenocarcinoma
+317,LEFT,T,C140,CD45pMACS,MSS,11,2,Adenocarcinoma
+318,LEFT,T,C140,CD45pMACS,MSS,13,2,Adenocarcinoma
+319,LEFT,T,C140,CD45pMACS,MSS,14,3,Adenocarcinoma
+320,LEFT,T,C140,CD45pMACS,MSS,17,1,Adenocarcinoma
+322,LEFT,T,C140,unosrted,MSS,1,6,Adenocarcinoma
+323,LEFT,T,C140,unosrted,MSS,2,2,Adenocarcinoma
+324,LEFT,T,C140,unosrted,MSS,3,536,Adenocarcinoma
+325,LEFT,T,C140,unosrted,MSS,4,15,Adenocarcinoma
+326,LEFT,T,C140,unosrted,MSS,5,6,Adenocarcinoma
+327,LEFT,T,C140,unosrted,MSS,6,10,Adenocarcinoma
+328,LEFT,T,C140,unosrted,MSS,8,361,Adenocarcinoma
+329,LEFT,T,C140,unosrted,MSS,9,33,Adenocarcinoma
+330,LEFT,T,C140,unosrted,MSS,11,2,Adenocarcinoma
+331,LEFT,T,C140,unosrted,MSS,12,1,Adenocarcinoma
+332,LEFT,T,C140,unosrted,MSS,13,2,Adenocarcinoma
+333,LEFT,T,C140,unosrted,MSS,14,2,Adenocarcinoma
+334,LEFT,T,C140,unosrted,MSS,15,2,Adenocarcinoma
+336,LEFT,T,C150,CD45pMACS,MSS,1,1,Adenocarcinoma
+337,LEFT,T,C150,CD45pMACS,MSS,2,4,Adenocarcinoma
+338,LEFT,T,C150,CD45pMACS,MSS,3,143,Adenocarcinoma
+339,LEFT,T,C150,CD45pMACS,MSS,8,25,Adenocarcinoma
+340,LEFT,T,C150,CD45pMACS,MSS,20,1,Adenocarcinoma
+342,LEFT,T,C150,unosrted,MSS,1,6,Adenocarcinoma
+343,LEFT,T,C150,unosrted,MSS,2,3,Adenocarcinoma
+344,LEFT,T,C150,unosrted,MSS,3,741,Adenocarcinoma
+345,LEFT,T,C150,unosrted,MSS,4,1,Adenocarcinoma
+346,LEFT,T,C150,unosrted,MSS,8,229,Adenocarcinoma
+347,LEFT,T,C150,unosrted,MSS,9,6,Adenocarcinoma
+348,LEFT,T,C150,unosrted,MSS,10,3,Adenocarcinoma
+349,LEFT,T,C150,unosrted,MSS,18,1,Adenocarcinoma
+350,LEFT,T,C150,unosrted,MSS,20,1,Adenocarcinoma
+352,LEFT,T,C153,CD45pMACS,MSS,1,2,Adenocarcinoma
+353,LEFT,T,C153,CD45pMACS,MSS,3,181,Adenocarcinoma
+354,LEFT,T,C153,CD45pMACS,MSS,4,6,Adenocarcinoma
+355,LEFT,T,C153,CD45pMACS,MSS,5,1,Adenocarcinoma
+356,LEFT,T,C153,CD45pMACS,MSS,6,7,Adenocarcinoma
+357,LEFT,T,C153,CD45pMACS,MSS,8,128,Adenocarcinoma
+358,LEFT,T,C153,CD45pMACS,MSS,9,4,Adenocarcinoma
+359,LEFT,T,C153,CD45pMACS,MSS,13,2,Adenocarcinoma
+360,LEFT,T,C153,CD45pMACS,MSS,14,1,Adenocarcinoma
+361,LEFT,T,C153,CD45pMACS,MSS,15,1,Adenocarcinoma
+363,LEFT,T,C153,unosrted,MSS,1,20,Adenocarcinoma
+364,LEFT,T,C153,unosrted,MSS,2,4,Adenocarcinoma
+365,LEFT,T,C153,unosrted,MSS,3,747,Adenocarcinoma
+366,LEFT,T,C153,unosrted,MSS,4,20,Adenocarcinoma
+367,LEFT,T,C153,unosrted,MSS,5,6,Adenocarcinoma
+368,LEFT,T,C153,unosrted,MSS,6,35,Adenocarcinoma
+369,LEFT,T,C153,unosrted,MSS,8,509,Adenocarcinoma
+370,LEFT,T,C153,unosrted,MSS,9,5,Adenocarcinoma
+371,LEFT,T,C153,unosrted,MSS,10,1,Adenocarcinoma
+372,LEFT,T,C153,unosrted,MSS,11,1,Adenocarcinoma
+373,LEFT,T,C153,unosrted,MSS,12,4,Adenocarcinoma
+374,LEFT,T,C153,unosrted,MSS,14,2,Adenocarcinoma
+375,LEFT,T,C153,unosrted,MSS,15,3,Adenocarcinoma
+376,LEFT,T,C153,unosrted,MSS,17,2,Adenocarcinoma
+378,LEFT,T,C157,unosrted,MSS,1,5,Adenocarcinoma
+379,LEFT,T,C157,unosrted,MSS,2,19,Adenocarcinoma
+380,LEFT,T,C157,unosrted,MSS,3,66,Adenocarcinoma
+381,LEFT,T,C157,unosrted,MSS,4,8,Adenocarcinoma
+382,LEFT,T,C157,unosrted,MSS,5,20,Adenocarcinoma
+383,LEFT,T,C157,unosrted,MSS,6,17,Adenocarcinoma
+384,LEFT,T,C157,unosrted,MSS,8,39,Adenocarcinoma
+385,LEFT,T,C157,unosrted,MSS,9,23,Adenocarcinoma
+386,LEFT,T,C157,unosrted,MSS,11,92,Adenocarcinoma
+387,LEFT,T,C157,unosrted,MSS,13,1,Adenocarcinoma
+388,LEFT,T,C157,unosrted,MSS,15,1,Adenocarcinoma
+389,LEFT,T,C157,unosrted,MSS,17,12,Adenocarcinoma
+390,LEFT,T,C157,unosrted,MSS,18,17,Adenocarcinoma
+391,LEFT,T,C157,unosrted,MSS,22,1,Adenocarcinoma
+393,LEFT,T,C166,unosrted,MSS,1,14,Adenocarcinoma
+394,LEFT,T,C166,unosrted,MSS,2,3,Adenocarcinoma
+395,LEFT,T,C166,unosrted,MSS,3,106,Adenocarcinoma
+396,LEFT,T,C166,unosrted,MSS,4,2,Adenocarcinoma
+397,LEFT,T,C166,unosrted,MSS,8,100,Adenocarcinoma
+398,LEFT,T,C166,unosrted,MSS,9,12,Adenocarcinoma
+399,LEFT,T,C166,unosrted,MSS,11,3517,Adenocarcinoma
+400,LEFT,T,C166,unosrted,MSS,13,1,Adenocarcinoma
+401,LEFT,T,C166,unosrted,MSS,18,7,Adenocarcinoma
+402,LEFT,T,C166,unosrted,MSS,22,5,Adenocarcinoma
+404,LEFT,T,C173,unosrted,MLH1 and PMS2 deficient,1,100,Adenocarcinoma
+405,LEFT,T,C173,unosrted,MLH1 and PMS2 deficient,2,62,Adenocarcinoma
+406,LEFT,T,C173,unosrted,MLH1 and PMS2 deficient,3,1,Adenocarcinoma
+407,LEFT,T,C173,unosrted,MLH1 and PMS2 deficient,4,1,Adenocarcinoma
+408,LEFT,T,C173,unosrted,MLH1 and PMS2 deficient,5,3,Adenocarcinoma
+409,LEFT,T,C173,unosrted,MLH1 and PMS2 deficient,8,1,Adenocarcinoma
+410,LEFT,T,C173,unosrted,MLH1 and PMS2 deficient,9,14,Adenocarcinoma
+411,LEFT,T,C173,unosrted,MLH1 and PMS2 deficient,12,2,Adenocarcinoma
+412,LEFT,T,C173,unosrted,MLH1 and PMS2 deficient,13,64,Adenocarcinoma
+413,LEFT,T,C173,unosrted,MLH1 and PMS2 deficient,15,2,Adenocarcinoma
+414,LEFT,T,C173,unosrted,MLH1 and PMS2 deficient,18,4,Adenocarcinoma
+415,LEFT,T,C173,unosrted,MLH1 and PMS2 deficient,22,1,Adenocarcinoma
+417,RIGHT,N,C106,LiveMACS,MLH1 and PMS2 deficient,4,8,Adenocarcinoma;Mucinous
+418,RIGHT,N,C106,LiveMACS,MLH1 and PMS2 deficient,5,2,Adenocarcinoma;Mucinous
+419,RIGHT,N,C106,LiveMACS,MLH1 and PMS2 deficient,6,10,Adenocarcinoma;Mucinous
+420,RIGHT,N,C106,LiveMACS,MLH1 and PMS2 deficient,7,1,Adenocarcinoma;Mucinous
+421,RIGHT,N,C106,LiveMACS,MLH1 and PMS2 deficient,9,1,Adenocarcinoma;Mucinous
+422,RIGHT,N,C106,LiveMACS,MLH1 and PMS2 deficient,12,9,Adenocarcinoma;Mucinous
+423,RIGHT,N,C106,LiveMACS,MLH1 and PMS2 deficient,13,1,Adenocarcinoma;Mucinous
+424,RIGHT,N,C106,LiveMACS,MLH1 and PMS2 deficient,22,4,Adenocarcinoma;Mucinous
+426,RIGHT,N,C106,unosrted,MLH1 and PMS2 deficient,4,74,Adenocarcinoma;Mucinous
+427,RIGHT,N,C106,unosrted,MLH1 and PMS2 deficient,5,55,Adenocarcinoma;Mucinous
+428,RIGHT,N,C106,unosrted,MLH1 and PMS2 deficient,6,104,Adenocarcinoma;Mucinous
+429,RIGHT,N,C106,unosrted,MLH1 and PMS2 deficient,7,11,Adenocarcinoma;Mucinous
+430,RIGHT,N,C106,unosrted,MLH1 and PMS2 deficient,9,20,Adenocarcinoma;Mucinous
+431,RIGHT,N,C106,unosrted,MLH1 and PMS2 deficient,12,77,Adenocarcinoma;Mucinous
+432,RIGHT,N,C106,unosrted,MLH1 and PMS2 deficient,13,2,Adenocarcinoma;Mucinous
+433,RIGHT,N,C106,unosrted,MLH1 and PMS2 deficient,17,14,Adenocarcinoma;Mucinous
+434,RIGHT,N,C106,unosrted,MLH1 and PMS2 deficient,22,19,Adenocarcinoma;Mucinous
+436,RIGHT,N,C107,unosrted,MSS,4,106,Adenocarcinoma
+437,RIGHT,N,C107,unosrted,MSS,5,99,Adenocarcinoma
+438,RIGHT,N,C107,unosrted,MSS,6,12,Adenocarcinoma
+439,RIGHT,N,C107,unosrted,MSS,7,23,Adenocarcinoma
+440,RIGHT,N,C107,unosrted,MSS,8,1,Adenocarcinoma
+441,RIGHT,N,C107,unosrted,MSS,9,36,Adenocarcinoma
+442,RIGHT,N,C107,unosrted,MSS,10,1,Adenocarcinoma
+443,RIGHT,N,C107,unosrted,MSS,12,109,Adenocarcinoma
+444,RIGHT,N,C107,unosrted,MSS,17,10,Adenocarcinoma
+445,RIGHT,N,C107,unosrted,MSS,22,8,Adenocarcinoma
+447,RIGHT,N,C109,unosrted,MLH1 and PMS2 deficient,1,1,Adenocarcinoma
+448,RIGHT,N,C109,unosrted,MLH1 and PMS2 deficient,4,202,Adenocarcinoma
+449,RIGHT,N,C109,unosrted,MLH1 and PMS2 deficient,5,72,Adenocarcinoma
+450,RIGHT,N,C109,unosrted,MLH1 and PMS2 deficient,6,137,Adenocarcinoma
+451,RIGHT,N,C109,unosrted,MLH1 and PMS2 deficient,7,98,Adenocarcinoma
+452,RIGHT,N,C109,unosrted,MLH1 and PMS2 deficient,9,20,Adenocarcinoma
+453,RIGHT,N,C109,unosrted,MLH1 and PMS2 deficient,12,54,Adenocarcinoma
+454,RIGHT,N,C109,unosrted,MLH1 and PMS2 deficient,17,21,Adenocarcinoma
+455,RIGHT,N,C109,unosrted,MLH1 and PMS2 deficient,22,15,Adenocarcinoma
+457,RIGHT,N,C110,unosrted,MLH1 and PMS2 deficient,4,85,Adenocarcinoma;Medullary (with solid growth pattern)
+458,RIGHT,N,C110,unosrted,MLH1 and PMS2 deficient,5,22,Adenocarcinoma;Medullary (with solid growth pattern)
+459,RIGHT,N,C110,unosrted,MLH1 and PMS2 deficient,6,41,Adenocarcinoma;Medullary (with solid growth pattern)
+460,RIGHT,N,C110,unosrted,MLH1 and PMS2 deficient,7,17,Adenocarcinoma;Medullary (with solid growth pattern)
+461,RIGHT,N,C110,unosrted,MLH1 and PMS2 deficient,9,8,Adenocarcinoma;Medullary (with solid growth pattern)
+462,RIGHT,N,C110,unosrted,MLH1 and PMS2 deficient,12,29,Adenocarcinoma;Medullary (with solid growth pattern)
+463,RIGHT,N,C110,unosrted,MLH1 and PMS2 deficient,13,2,Adenocarcinoma;Medullary (with solid growth pattern)
+464,RIGHT,N,C110,unosrted,MLH1 and PMS2 deficient,17,2,Adenocarcinoma;Medullary (with solid growth pattern)
+465,RIGHT,N,C110,unosrted,MLH1 and PMS2 deficient,22,21,Adenocarcinoma;Medullary (with solid growth pattern)
+467,RIGHT,N,C111,CD45pMACS,MLH1 and PMS2 deficient,4,12,Adenocarcinoma
+468,RIGHT,N,C111,CD45pMACS,MLH1 and PMS2 deficient,5,12,Adenocarcinoma
+469,RIGHT,N,C111,CD45pMACS,MLH1 and PMS2 deficient,6,17,Adenocarcinoma
+470,RIGHT,N,C111,CD45pMACS,MLH1 and PMS2 deficient,7,1,Adenocarcinoma
+471,RIGHT,N,C111,CD45pMACS,MLH1 and PMS2 deficient,9,4,Adenocarcinoma
+472,RIGHT,N,C111,CD45pMACS,MLH1 and PMS2 deficient,12,9,Adenocarcinoma
+473,RIGHT,N,C111,CD45pMACS,MLH1 and PMS2 deficient,17,6,Adenocarcinoma
+474,RIGHT,N,C111,CD45pMACS,MLH1 and PMS2 deficient,18,2,Adenocarcinoma
+476,RIGHT,N,C111,unosrted,MLH1 and PMS2 deficient,4,16,Adenocarcinoma
+477,RIGHT,N,C111,unosrted,MLH1 and PMS2 deficient,5,27,Adenocarcinoma
+478,RIGHT,N,C111,unosrted,MLH1 and PMS2 deficient,6,20,Adenocarcinoma
+479,RIGHT,N,C111,unosrted,MLH1 and PMS2 deficient,7,6,Adenocarcinoma
+480,RIGHT,N,C111,unosrted,MLH1 and PMS2 deficient,9,14,Adenocarcinoma
+481,RIGHT,N,C111,unosrted,MLH1 and PMS2 deficient,12,12,Adenocarcinoma
+482,RIGHT,N,C111,unosrted,MLH1 and PMS2 deficient,17,5,Adenocarcinoma
+483,RIGHT,N,C111,unosrted,MLH1 and PMS2 deficient,22,2,Adenocarcinoma
+485,RIGHT,N,C112,mixUnsortCD45MACS,MSS,4,59,Adenocarcinoma
+486,RIGHT,N,C112,mixUnsortCD45MACS,MSS,5,19,Adenocarcinoma
+487,RIGHT,N,C112,mixUnsortCD45MACS,MSS,6,45,Adenocarcinoma
+488,RIGHT,N,C112,mixUnsortCD45MACS,MSS,7,25,Adenocarcinoma
+489,RIGHT,N,C112,mixUnsortCD45MACS,MSS,9,24,Adenocarcinoma
+490,RIGHT,N,C112,mixUnsortCD45MACS,MSS,12,36,Adenocarcinoma
+491,RIGHT,N,C112,mixUnsortCD45MACS,MSS,13,1,Adenocarcinoma
+492,RIGHT,N,C112,mixUnsortCD45MACS,MSS,17,8,Adenocarcinoma
+493,RIGHT,N,C112,mixUnsortCD45MACS,MSS,22,2,Adenocarcinoma
+495,RIGHT,N,C113,unosrted,MSS,4,22,Adenocarcinoma
+496,RIGHT,N,C113,unosrted,MSS,5,6,Adenocarcinoma
+497,RIGHT,N,C113,unosrted,MSS,6,53,Adenocarcinoma
+498,RIGHT,N,C113,unosrted,MSS,7,7,Adenocarcinoma
+499,RIGHT,N,C113,unosrted,MSS,9,18,Adenocarcinoma
+500,RIGHT,N,C113,unosrted,MSS,12,37,Adenocarcinoma
+501,RIGHT,N,C113,unosrted,MSS,17,14,Adenocarcinoma
+502,RIGHT,N,C113,unosrted,MSS,22,31,Adenocarcinoma
+504,RIGHT,N,C114,mixUnsortCD45MACS,MLH1 and PMS2 deficient,4,67,Adenocarcinoma
+505,RIGHT,N,C114,mixUnsortCD45MACS,MLH1 and PMS2 deficient,5,68,Adenocarcinoma
+506,RIGHT,N,C114,mixUnsortCD45MACS,MLH1 and PMS2 deficient,6,44,Adenocarcinoma
+507,RIGHT,N,C114,mixUnsortCD45MACS,MLH1 and PMS2 deficient,7,10,Adenocarcinoma
+508,RIGHT,N,C114,mixUnsortCD45MACS,MLH1 and PMS2 deficient,9,8,Adenocarcinoma
+509,RIGHT,N,C114,mixUnsortCD45MACS,MLH1 and PMS2 deficient,12,15,Adenocarcinoma
+510,RIGHT,N,C114,mixUnsortCD45MACS,MLH1 and PMS2 deficient,17,6,Adenocarcinoma
+511,RIGHT,N,C114,mixUnsortCD45MACS,MLH1 and PMS2 deficient,22,12,Adenocarcinoma
+513,RIGHT,N,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,4,16,Adenocarcinoma
+514,RIGHT,N,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,5,11,Adenocarcinoma
+515,RIGHT,N,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,6,23,Adenocarcinoma
+516,RIGHT,N,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,7,26,Adenocarcinoma
+517,RIGHT,N,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,9,3,Adenocarcinoma
+518,RIGHT,N,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,12,34,Adenocarcinoma
+519,RIGHT,N,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,17,2,Adenocarcinoma
+520,RIGHT,N,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,22,4,Adenocarcinoma
+522,RIGHT,N,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,4,95,Adenocarcinoma
+523,RIGHT,N,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,5,158,Adenocarcinoma
+524,RIGHT,N,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,6,80,Adenocarcinoma
+525,RIGHT,N,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,7,35,Adenocarcinoma
+526,RIGHT,N,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,9,29,Adenocarcinoma
+527,RIGHT,N,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,12,122,Adenocarcinoma
+528,RIGHT,N,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,13,1,Adenocarcinoma
+529,RIGHT,N,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,17,16,Adenocarcinoma
+530,RIGHT,N,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,22,3,Adenocarcinoma
+532,RIGHT,N,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",4,2,Adenocarcinoma
+533,RIGHT,N,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",6,14,Adenocarcinoma
+534,RIGHT,N,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",7,1,Adenocarcinoma
+535,RIGHT,N,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",12,1,Adenocarcinoma
+536,RIGHT,N,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",17,1,Adenocarcinoma
+538,RIGHT,N,C122,CD45pMACS,MLH1 and PMS2 deficient,4,103,Adenocarcinoma
+539,RIGHT,N,C122,CD45pMACS,MLH1 and PMS2 deficient,5,152,Adenocarcinoma
+540,RIGHT,N,C122,CD45pMACS,MLH1 and PMS2 deficient,6,133,Adenocarcinoma
+541,RIGHT,N,C122,CD45pMACS,MLH1 and PMS2 deficient,7,24,Adenocarcinoma
+542,RIGHT,N,C122,CD45pMACS,MLH1 and PMS2 deficient,9,63,Adenocarcinoma
+543,RIGHT,N,C122,CD45pMACS,MLH1 and PMS2 deficient,12,57,Adenocarcinoma
+544,RIGHT,N,C122,CD45pMACS,MLH1 and PMS2 deficient,13,1,Adenocarcinoma
+545,RIGHT,N,C122,CD45pMACS,MLH1 and PMS2 deficient,17,39,Adenocarcinoma
+546,RIGHT,N,C122,CD45pMACS,MLH1 and PMS2 deficient,18,1,Adenocarcinoma
+547,RIGHT,N,C122,CD45pMACS,MLH1 and PMS2 deficient,22,10,Adenocarcinoma
+549,RIGHT,N,C122,unosrted,MLH1 and PMS2 deficient,4,74,Adenocarcinoma
+550,RIGHT,N,C122,unosrted,MLH1 and PMS2 deficient,5,95,Adenocarcinoma
+551,RIGHT,N,C122,unosrted,MLH1 and PMS2 deficient,6,80,Adenocarcinoma
+552,RIGHT,N,C122,unosrted,MLH1 and PMS2 deficient,7,22,Adenocarcinoma
+553,RIGHT,N,C122,unosrted,MLH1 and PMS2 deficient,9,101,Adenocarcinoma
+554,RIGHT,N,C122,unosrted,MLH1 and PMS2 deficient,12,69,Adenocarcinoma
+555,RIGHT,N,C122,unosrted,MLH1 and PMS2 deficient,13,3,Adenocarcinoma
+556,RIGHT,N,C122,unosrted,MLH1 and PMS2 deficient,17,34,Adenocarcinoma
+557,RIGHT,N,C122,unosrted,MLH1 and PMS2 deficient,22,35,Adenocarcinoma
+559,RIGHT,N,C123,CD45pMACS,MLH1 and PMS2 deficient,4,81,Adenocarcinoma
+560,RIGHT,N,C123,CD45pMACS,MLH1 and PMS2 deficient,5,60,Adenocarcinoma
+561,RIGHT,N,C123,CD45pMACS,MLH1 and PMS2 deficient,6,33,Adenocarcinoma
+562,RIGHT,N,C123,CD45pMACS,MLH1 and PMS2 deficient,7,11,Adenocarcinoma
+563,RIGHT,N,C123,CD45pMACS,MLH1 and PMS2 deficient,9,17,Adenocarcinoma
+564,RIGHT,N,C123,CD45pMACS,MLH1 and PMS2 deficient,10,1,Adenocarcinoma
+565,RIGHT,N,C123,CD45pMACS,MLH1 and PMS2 deficient,12,168,Adenocarcinoma
+566,RIGHT,N,C123,CD45pMACS,MLH1 and PMS2 deficient,17,17,Adenocarcinoma
+567,RIGHT,N,C123,CD45pMACS,MLH1 and PMS2 deficient,22,16,Adenocarcinoma
+569,RIGHT,N,C123,unosrted,MLH1 and PMS2 deficient,4,110,Adenocarcinoma
+570,RIGHT,N,C123,unosrted,MLH1 and PMS2 deficient,5,60,Adenocarcinoma
+571,RIGHT,N,C123,unosrted,MLH1 and PMS2 deficient,6,52,Adenocarcinoma
+572,RIGHT,N,C123,unosrted,MLH1 and PMS2 deficient,7,21,Adenocarcinoma
+573,RIGHT,N,C123,unosrted,MLH1 and PMS2 deficient,9,23,Adenocarcinoma
+574,RIGHT,N,C123,unosrted,MLH1 and PMS2 deficient,12,182,Adenocarcinoma
+575,RIGHT,N,C123,unosrted,MLH1 and PMS2 deficient,13,2,Adenocarcinoma
+576,RIGHT,N,C123,unosrted,MLH1 and PMS2 deficient,17,12,Adenocarcinoma
+577,RIGHT,N,C123,unosrted,MLH1 and PMS2 deficient,22,8,Adenocarcinoma
+578,RIGHT,N,C126,CD45pMACS,MSS,1,1,Adenocarcinoma;Mucinous
+579,RIGHT,N,C126,CD45pMACS,MSS,4,398,Adenocarcinoma;Mucinous
+580,RIGHT,N,C126,CD45pMACS,MSS,5,214,Adenocarcinoma;Mucinous
+581,RIGHT,N,C126,CD45pMACS,MSS,6,137,Adenocarcinoma;Mucinous
+582,RIGHT,N,C126,CD45pMACS,MSS,7,37,Adenocarcinoma;Mucinous
+583,RIGHT,N,C126,CD45pMACS,MSS,9,41,Adenocarcinoma;Mucinous
+584,RIGHT,N,C126,CD45pMACS,MSS,12,74,Adenocarcinoma;Mucinous
+585,RIGHT,N,C126,CD45pMACS,MSS,17,48,Adenocarcinoma;Mucinous
+586,RIGHT,N,C126,CD45pMACS,MSS,18,3,Adenocarcinoma;Mucinous
+587,RIGHT,N,C126,CD45pMACS,MSS,22,7,Adenocarcinoma;Mucinous
+589,RIGHT,N,C126,unosrted,MSS,4,236,Adenocarcinoma;Mucinous
+590,RIGHT,N,C126,unosrted,MSS,5,87,Adenocarcinoma;Mucinous
+591,RIGHT,N,C126,unosrted,MSS,6,133,Adenocarcinoma;Mucinous
+592,RIGHT,N,C126,unosrted,MSS,7,27,Adenocarcinoma;Mucinous
+593,RIGHT,N,C126,unosrted,MSS,8,1,Adenocarcinoma;Mucinous
+594,RIGHT,N,C126,unosrted,MSS,9,78,Adenocarcinoma;Mucinous
+595,RIGHT,N,C126,unosrted,MSS,12,238,Adenocarcinoma;Mucinous
+596,RIGHT,N,C126,unosrted,MSS,17,60,Adenocarcinoma;Mucinous
+597,RIGHT,N,C126,unosrted,MSS,22,23,Adenocarcinoma;Mucinous
+598,RIGHT,N,C130,CD45pMACS,MLH1 and PMS2 deficient,4,114,Adenocarcinoma;Mucinous
+599,RIGHT,N,C130,CD45pMACS,MLH1 and PMS2 deficient,5,72,Adenocarcinoma;Mucinous
+600,RIGHT,N,C130,CD45pMACS,MLH1 and PMS2 deficient,6,19,Adenocarcinoma;Mucinous
+601,RIGHT,N,C130,CD45pMACS,MLH1 and PMS2 deficient,7,25,Adenocarcinoma;Mucinous
+602,RIGHT,N,C130,CD45pMACS,MLH1 and PMS2 deficient,8,1,Adenocarcinoma;Mucinous
+603,RIGHT,N,C130,CD45pMACS,MLH1 and PMS2 deficient,9,20,Adenocarcinoma;Mucinous
+604,RIGHT,N,C130,CD45pMACS,MLH1 and PMS2 deficient,12,24,Adenocarcinoma;Mucinous
+605,RIGHT,N,C130,CD45pMACS,MLH1 and PMS2 deficient,13,1,Adenocarcinoma;Mucinous
+606,RIGHT,N,C130,CD45pMACS,MLH1 and PMS2 deficient,17,1,Adenocarcinoma;Mucinous
+607,RIGHT,N,C130,CD45pMACS,MLH1 and PMS2 deficient,18,1,Adenocarcinoma;Mucinous
+608,RIGHT,N,C130,CD45pMACS,MLH1 and PMS2 deficient,22,1,Adenocarcinoma;Mucinous
+610,RIGHT,N,C130,unosrted,MLH1 and PMS2 deficient,4,162,Adenocarcinoma;Mucinous
+611,RIGHT,N,C130,unosrted,MLH1 and PMS2 deficient,5,137,Adenocarcinoma;Mucinous
+612,RIGHT,N,C130,unosrted,MLH1 and PMS2 deficient,6,48,Adenocarcinoma;Mucinous
+613,RIGHT,N,C130,unosrted,MLH1 and PMS2 deficient,7,89,Adenocarcinoma;Mucinous
+614,RIGHT,N,C130,unosrted,MLH1 and PMS2 deficient,9,147,Adenocarcinoma;Mucinous
+615,RIGHT,N,C130,unosrted,MLH1 and PMS2 deficient,12,110,Adenocarcinoma;Mucinous
+616,RIGHT,N,C130,unosrted,MLH1 and PMS2 deficient,13,1,Adenocarcinoma;Mucinous
+617,RIGHT,N,C130,unosrted,MLH1 and PMS2 deficient,17,10,Adenocarcinoma;Mucinous
+618,RIGHT,N,C130,unosrted,MLH1 and PMS2 deficient,22,17,Adenocarcinoma;Mucinous
+620,RIGHT,N,C133,unosrted,MSS,4,19,Adenocarcinoma;Mucinous
+621,RIGHT,N,C133,unosrted,MSS,5,12,Adenocarcinoma;Mucinous
+622,RIGHT,N,C133,unosrted,MSS,6,86,Adenocarcinoma;Mucinous
+623,RIGHT,N,C133,unosrted,MSS,7,20,Adenocarcinoma;Mucinous
+624,RIGHT,N,C133,unosrted,MSS,9,10,Adenocarcinoma;Mucinous
+625,RIGHT,N,C133,unosrted,MSS,12,11,Adenocarcinoma;Mucinous
+626,RIGHT,N,C133,unosrted,MSS,13,2,Adenocarcinoma;Mucinous
+627,RIGHT,N,C133,unosrted,MSS,17,47,Adenocarcinoma;Mucinous
+628,RIGHT,N,C133,unosrted,MSS,22,4,Adenocarcinoma;Mucinous
+630,RIGHT,N,C135,unosrted,MSS,4,79,Adenocarcinoma
+631,RIGHT,N,C135,unosrted,MSS,5,72,Adenocarcinoma
+632,RIGHT,N,C135,unosrted,MSS,6,29,Adenocarcinoma
+633,RIGHT,N,C135,unosrted,MSS,7,26,Adenocarcinoma
+634,RIGHT,N,C135,unosrted,MSS,9,30,Adenocarcinoma
+635,RIGHT,N,C135,unosrted,MSS,12,41,Adenocarcinoma
+636,RIGHT,N,C135,unosrted,MSS,17,12,Adenocarcinoma
+637,RIGHT,N,C135,unosrted,MSS,22,18,Adenocarcinoma
+639,RIGHT,N,C137,CD45pMACS,Isolated PMS2 deficiency,4,24,Adenocarcinoma
+640,RIGHT,N,C137,CD45pMACS,Isolated PMS2 deficiency,5,10,Adenocarcinoma
+641,RIGHT,N,C137,CD45pMACS,Isolated PMS2 deficiency,6,19,Adenocarcinoma
+642,RIGHT,N,C137,CD45pMACS,Isolated PMS2 deficiency,9,6,Adenocarcinoma
+643,RIGHT,N,C137,CD45pMACS,Isolated PMS2 deficiency,12,10,Adenocarcinoma
+645,RIGHT,N,C137,unosrted,Isolated PMS2 deficiency,1,1,Adenocarcinoma
+646,RIGHT,N,C137,unosrted,Isolated PMS2 deficiency,2,1,Adenocarcinoma
+647,RIGHT,N,C137,unosrted,Isolated PMS2 deficiency,4,47,Adenocarcinoma
+648,RIGHT,N,C137,unosrted,Isolated PMS2 deficiency,5,21,Adenocarcinoma
+649,RIGHT,N,C137,unosrted,Isolated PMS2 deficiency,6,20,Adenocarcinoma
+650,RIGHT,N,C137,unosrted,Isolated PMS2 deficiency,7,9,Adenocarcinoma
+651,RIGHT,N,C137,unosrted,Isolated PMS2 deficiency,9,19,Adenocarcinoma
+652,RIGHT,N,C137,unosrted,Isolated PMS2 deficiency,12,63,Adenocarcinoma
+653,RIGHT,N,C137,unosrted,Isolated PMS2 deficiency,17,5,Adenocarcinoma
+654,RIGHT,N,C137,unosrted,Isolated PMS2 deficiency,22,7,Adenocarcinoma
+656,RIGHT,N,C138,CD45pMACS,MSH2 and MSH6 deficient,4,4,Adenocarcinoma;Mucinous
+657,RIGHT,N,C138,CD45pMACS,MSH2 and MSH6 deficient,5,1,Adenocarcinoma;Mucinous
+658,RIGHT,N,C138,CD45pMACS,MSH2 and MSH6 deficient,6,48,Adenocarcinoma;Mucinous
+659,RIGHT,N,C138,CD45pMACS,MSH2 and MSH6 deficient,7,1,Adenocarcinoma;Mucinous
+660,RIGHT,N,C138,CD45pMACS,MSH2 and MSH6 deficient,9,1,Adenocarcinoma;Mucinous
+661,RIGHT,N,C138,CD45pMACS,MSH2 and MSH6 deficient,12,2,Adenocarcinoma;Mucinous
+662,RIGHT,N,C138,CD45pMACS,MSH2 and MSH6 deficient,13,1,Adenocarcinoma;Mucinous
+663,RIGHT,N,C138,CD45pMACS,MSH2 and MSH6 deficient,17,14,Adenocarcinoma;Mucinous
+664,RIGHT,N,C138,CD45pMACS,MSH2 and MSH6 deficient,22,1,Adenocarcinoma;Mucinous
+666,RIGHT,N,C138,unosrted,MSH2 and MSH6 deficient,1,1,Adenocarcinoma;Mucinous
+667,RIGHT,N,C138,unosrted,MSH2 and MSH6 deficient,4,33,Adenocarcinoma;Mucinous
+668,RIGHT,N,C138,unosrted,MSH2 and MSH6 deficient,5,17,Adenocarcinoma;Mucinous
+669,RIGHT,N,C138,unosrted,MSH2 and MSH6 deficient,6,78,Adenocarcinoma;Mucinous
+670,RIGHT,N,C138,unosrted,MSH2 and MSH6 deficient,7,2,Adenocarcinoma;Mucinous
+671,RIGHT,N,C138,unosrted,MSH2 and MSH6 deficient,9,13,Adenocarcinoma;Mucinous
+672,RIGHT,N,C138,unosrted,MSH2 and MSH6 deficient,12,7,Adenocarcinoma;Mucinous
+673,RIGHT,N,C138,unosrted,MSH2 and MSH6 deficient,17,54,Adenocarcinoma;Mucinous
+675,RIGHT,N,C139,CD45pMACS,MSI,4,74,Adenocarcinoma
+676,RIGHT,N,C139,CD45pMACS,MSI,5,61,Adenocarcinoma
+677,RIGHT,N,C139,CD45pMACS,MSI,6,21,Adenocarcinoma
+678,RIGHT,N,C139,CD45pMACS,MSI,7,12,Adenocarcinoma
+679,RIGHT,N,C139,CD45pMACS,MSI,9,11,Adenocarcinoma
+680,RIGHT,N,C139,CD45pMACS,MSI,12,9,Adenocarcinoma
+682,RIGHT,N,C139,unosrted,MSI,4,121,Adenocarcinoma
+683,RIGHT,N,C139,unosrted,MSI,5,70,Adenocarcinoma
+684,RIGHT,N,C139,unosrted,MSI,6,4,Adenocarcinoma
+685,RIGHT,N,C139,unosrted,MSI,7,53,Adenocarcinoma
+686,RIGHT,N,C139,unosrted,MSI,9,13,Adenocarcinoma
+687,RIGHT,N,C139,unosrted,MSI,12,5,Adenocarcinoma
+688,RIGHT,N,C139,unosrted,MSI,17,1,Adenocarcinoma
+689,RIGHT,N,C139,unosrted,MSI,22,2,Adenocarcinoma
+691,RIGHT,N,C142,unosrted,MSH2 and MSH6 deficient,1,2,Adenocarcinoma
+692,RIGHT,N,C142,unosrted,MSH2 and MSH6 deficient,4,165,Adenocarcinoma
+693,RIGHT,N,C142,unosrted,MSH2 and MSH6 deficient,5,133,Adenocarcinoma
+694,RIGHT,N,C142,unosrted,MSH2 and MSH6 deficient,6,80,Adenocarcinoma
+695,RIGHT,N,C142,unosrted,MSH2 and MSH6 deficient,7,54,Adenocarcinoma
+696,RIGHT,N,C142,unosrted,MSH2 and MSH6 deficient,9,38,Adenocarcinoma
+697,RIGHT,N,C142,unosrted,MSH2 and MSH6 deficient,12,92,Adenocarcinoma
+698,RIGHT,N,C142,unosrted,MSH2 and MSH6 deficient,13,2,Adenocarcinoma
+699,RIGHT,N,C142,unosrted,MSH2 and MSH6 deficient,17,3,Adenocarcinoma
+700,RIGHT,N,C142,unosrted,MSH2 and MSH6 deficient,22,15,Adenocarcinoma
+702,RIGHT,N,C143,unosrted,MSH2 and MSH6 deficient,1,1,Adenocarcinoma
+703,RIGHT,N,C143,unosrted,MSH2 and MSH6 deficient,2,1,Adenocarcinoma
+704,RIGHT,N,C143,unosrted,MSH2 and MSH6 deficient,4,225,Adenocarcinoma
+705,RIGHT,N,C143,unosrted,MSH2 and MSH6 deficient,5,181,Adenocarcinoma
+706,RIGHT,N,C143,unosrted,MSH2 and MSH6 deficient,6,78,Adenocarcinoma
+707,RIGHT,N,C143,unosrted,MSH2 and MSH6 deficient,7,146,Adenocarcinoma
+708,RIGHT,N,C143,unosrted,MSH2 and MSH6 deficient,9,156,Adenocarcinoma
+709,RIGHT,N,C143,unosrted,MSH2 and MSH6 deficient,12,141,Adenocarcinoma
+710,RIGHT,N,C143,unosrted,MSH2 and MSH6 deficient,13,1,Adenocarcinoma
+711,RIGHT,N,C143,unosrted,MSH2 and MSH6 deficient,17,53,Adenocarcinoma
+712,RIGHT,N,C143,unosrted,MSH2 and MSH6 deficient,22,67,Adenocarcinoma
+714,RIGHT,N,C151,unosrted,MLH1 and PMS2 deficient,2,5,Adenocarcinoma
+715,RIGHT,N,C151,unosrted,MLH1 and PMS2 deficient,4,176,Adenocarcinoma
+716,RIGHT,N,C151,unosrted,MLH1 and PMS2 deficient,5,160,Adenocarcinoma
+717,RIGHT,N,C151,unosrted,MLH1 and PMS2 deficient,6,140,Adenocarcinoma
+718,RIGHT,N,C151,unosrted,MLH1 and PMS2 deficient,7,155,Adenocarcinoma
+719,RIGHT,N,C151,unosrted,MLH1 and PMS2 deficient,8,2,Adenocarcinoma
+720,RIGHT,N,C151,unosrted,MLH1 and PMS2 deficient,9,284,Adenocarcinoma
+721,RIGHT,N,C151,unosrted,MLH1 and PMS2 deficient,10,2,Adenocarcinoma
+722,RIGHT,N,C151,unosrted,MLH1 and PMS2 deficient,12,77,Adenocarcinoma
+723,RIGHT,N,C151,unosrted,MLH1 and PMS2 deficient,13,3,Adenocarcinoma
+724,RIGHT,N,C151,unosrted,MLH1 and PMS2 deficient,17,186,Adenocarcinoma
+725,RIGHT,N,C151,unosrted,MLH1 and PMS2 deficient,22,64,Adenocarcinoma
+727,RIGHT,N,C152,unosrted,MLH1 and PMS2 deficient,4,168,Adenocarcinoma
+728,RIGHT,N,C152,unosrted,MLH1 and PMS2 deficient,5,118,Adenocarcinoma
+729,RIGHT,N,C152,unosrted,MLH1 and PMS2 deficient,6,180,Adenocarcinoma
+730,RIGHT,N,C152,unosrted,MLH1 and PMS2 deficient,7,41,Adenocarcinoma
+731,RIGHT,N,C152,unosrted,MLH1 and PMS2 deficient,9,92,Adenocarcinoma
+732,RIGHT,N,C152,unosrted,MLH1 and PMS2 deficient,12,18,Adenocarcinoma
+733,RIGHT,N,C152,unosrted,MLH1 and PMS2 deficient,13,2,Adenocarcinoma
+734,RIGHT,N,C152,unosrted,MLH1 and PMS2 deficient,17,95,Adenocarcinoma
+735,RIGHT,N,C152,unosrted,MLH1 and PMS2 deficient,22,2,Adenocarcinoma
+737,RIGHT,N,C155,unosrted,MSS,4,10,Adenocarcinoma
+738,RIGHT,N,C155,unosrted,MSS,5,43,Adenocarcinoma
+739,RIGHT,N,C155,unosrted,MSS,6,32,Adenocarcinoma
+740,RIGHT,N,C155,unosrted,MSS,7,10,Adenocarcinoma
+741,RIGHT,N,C155,unosrted,MSS,9,3,Adenocarcinoma
+742,RIGHT,N,C155,unosrted,MSS,12,4,Adenocarcinoma
+743,RIGHT,N,C155,unosrted,MSS,13,6,Adenocarcinoma
+744,RIGHT,N,C155,unosrted,MSS,17,3,Adenocarcinoma
+745,RIGHT,N,C155,unosrted,MSS,22,2,Adenocarcinoma
+747,RIGHT,N,C162,unosrted,MSS,2,2,Adenocarcinoma
+748,RIGHT,N,C162,unosrted,MSS,4,14,Adenocarcinoma
+749,RIGHT,N,C162,unosrted,MSS,5,30,Adenocarcinoma
+750,RIGHT,N,C162,unosrted,MSS,6,27,Adenocarcinoma
+751,RIGHT,N,C162,unosrted,MSS,7,9,Adenocarcinoma
+752,RIGHT,N,C162,unosrted,MSS,9,30,Adenocarcinoma
+753,RIGHT,N,C162,unosrted,MSS,12,18,Adenocarcinoma
+754,RIGHT,N,C162,unosrted,MSS,13,5,Adenocarcinoma
+755,RIGHT,N,C162,unosrted,MSS,17,54,Adenocarcinoma
+756,RIGHT,N,C162,unosrted,MSS,22,7,Adenocarcinoma
+758,RIGHT,N,C165,unosrted,Isolated MSH6 deficiency,1,2,Adenocarcinoma
+759,RIGHT,N,C165,unosrted,Isolated MSH6 deficiency,2,1,Adenocarcinoma
+760,RIGHT,N,C165,unosrted,Isolated MSH6 deficiency,3,1,Adenocarcinoma
+761,RIGHT,N,C165,unosrted,Isolated MSH6 deficiency,4,15,Adenocarcinoma
+762,RIGHT,N,C165,unosrted,Isolated MSH6 deficiency,5,17,Adenocarcinoma
+763,RIGHT,N,C165,unosrted,Isolated MSH6 deficiency,6,20,Adenocarcinoma
+764,RIGHT,N,C165,unosrted,Isolated MSH6 deficiency,7,1,Adenocarcinoma
+765,RIGHT,N,C165,unosrted,Isolated MSH6 deficiency,9,1,Adenocarcinoma
+766,RIGHT,N,C165,unosrted,Isolated MSH6 deficiency,12,16,Adenocarcinoma
+767,RIGHT,N,C165,unosrted,Isolated MSH6 deficiency,13,2,Adenocarcinoma
+768,RIGHT,N,C165,unosrted,Isolated MSH6 deficiency,17,11,Adenocarcinoma
+770,RIGHT,N,C170,unosrted,MLH1 and PMS2 deficient,2,1,Adenocarcinoma
+771,RIGHT,N,C170,unosrted,MLH1 and PMS2 deficient,4,3,Adenocarcinoma
+772,RIGHT,N,C170,unosrted,MLH1 and PMS2 deficient,5,2,Adenocarcinoma
+773,RIGHT,N,C170,unosrted,MLH1 and PMS2 deficient,6,4,Adenocarcinoma
+774,RIGHT,N,C170,unosrted,MLH1 and PMS2 deficient,7,1,Adenocarcinoma
+775,RIGHT,N,C170,unosrted,MLH1 and PMS2 deficient,12,5,Adenocarcinoma
+776,RIGHT,N,C170,unosrted,MLH1 and PMS2 deficient,13,1,Adenocarcinoma
+778,RIGHT,T,C104,LiveMACS,MSS,1,27,Adenocarcinoma
+779,RIGHT,T,C104,LiveMACS,MSS,2,8,Adenocarcinoma
+780,RIGHT,T,C104,LiveMACS,MSS,3,3,Adenocarcinoma
+781,RIGHT,T,C104,LiveMACS,MSS,4,8,Adenocarcinoma
+782,RIGHT,T,C104,LiveMACS,MSS,5,6,Adenocarcinoma
+783,RIGHT,T,C104,LiveMACS,MSS,6,13,Adenocarcinoma
+784,RIGHT,T,C104,LiveMACS,MSS,7,2,Adenocarcinoma
+785,RIGHT,T,C104,LiveMACS,MSS,8,5,Adenocarcinoma
+786,RIGHT,T,C104,LiveMACS,MSS,9,25,Adenocarcinoma
+787,RIGHT,T,C104,LiveMACS,MSS,12,10,Adenocarcinoma
+788,RIGHT,T,C104,LiveMACS,MSS,13,1,Adenocarcinoma
+789,RIGHT,T,C104,LiveMACS,MSS,17,1,Adenocarcinoma
+790,RIGHT,T,C104,LiveMACS,MSS,18,1,Adenocarcinoma
+792,RIGHT,T,C104,unosrted,MSS,1,36,Adenocarcinoma
+793,RIGHT,T,C104,unosrted,MSS,2,29,Adenocarcinoma
+794,RIGHT,T,C104,unosrted,MSS,3,115,Adenocarcinoma
+795,RIGHT,T,C104,unosrted,MSS,4,35,Adenocarcinoma
+796,RIGHT,T,C104,unosrted,MSS,5,21,Adenocarcinoma
+797,RIGHT,T,C104,unosrted,MSS,6,30,Adenocarcinoma
+798,RIGHT,T,C104,unosrted,MSS,7,3,Adenocarcinoma
+799,RIGHT,T,C104,unosrted,MSS,8,35,Adenocarcinoma
+800,RIGHT,T,C104,unosrted,MSS,9,101,Adenocarcinoma
+801,RIGHT,T,C104,unosrted,MSS,10,2,Adenocarcinoma
+802,RIGHT,T,C104,unosrted,MSS,12,41,Adenocarcinoma
+803,RIGHT,T,C104,unosrted,MSS,13,4,Adenocarcinoma
+804,RIGHT,T,C104,unosrted,MSS,17,10,Adenocarcinoma
+805,RIGHT,T,C104,unosrted,MSS,18,4,Adenocarcinoma
+806,RIGHT,T,C104,unosrted,MSS,20,1,Adenocarcinoma
+807,RIGHT,T,C104,unosrted,MSS,22,6,Adenocarcinoma
+809,RIGHT,T,C105,LiveMACS,MSS,1,14,Adenocarcinoma
+810,RIGHT,T,C105,LiveMACS,MSS,2,8,Adenocarcinoma
+811,RIGHT,T,C105,LiveMACS,MSS,3,6,Adenocarcinoma
+812,RIGHT,T,C105,LiveMACS,MSS,4,1,Adenocarcinoma
+813,RIGHT,T,C105,LiveMACS,MSS,5,1,Adenocarcinoma
+814,RIGHT,T,C105,LiveMACS,MSS,8,8,Adenocarcinoma
+815,RIGHT,T,C105,LiveMACS,MSS,9,3,Adenocarcinoma
+816,RIGHT,T,C105,LiveMACS,MSS,12,2,Adenocarcinoma
+817,RIGHT,T,C105,LiveMACS,MSS,18,2,Adenocarcinoma
+819,RIGHT,T,C105,unosrted,MSS,1,170,Adenocarcinoma
+820,RIGHT,T,C105,unosrted,MSS,2,70,Adenocarcinoma
+821,RIGHT,T,C105,unosrted,MSS,3,114,Adenocarcinoma
+822,RIGHT,T,C105,unosrted,MSS,4,5,Adenocarcinoma
+823,RIGHT,T,C105,unosrted,MSS,5,7,Adenocarcinoma
+824,RIGHT,T,C105,unosrted,MSS,6,1,Adenocarcinoma
+825,RIGHT,T,C105,unosrted,MSS,8,65,Adenocarcinoma
+826,RIGHT,T,C105,unosrted,MSS,9,38,Adenocarcinoma
+827,RIGHT,T,C105,unosrted,MSS,10,2,Adenocarcinoma
+828,RIGHT,T,C105,unosrted,MSS,12,3,Adenocarcinoma
+829,RIGHT,T,C105,unosrted,MSS,13,3,Adenocarcinoma
+830,RIGHT,T,C105,unosrted,MSS,15,1,Adenocarcinoma
+831,RIGHT,T,C105,unosrted,MSS,18,42,Adenocarcinoma
+832,RIGHT,T,C105,unosrted,MSS,20,3,Adenocarcinoma
+833,RIGHT,T,C105,unosrted,MSS,22,3,Adenocarcinoma
+835,RIGHT,T,C106,LiveMACS,MLH1 and PMS2 deficient,1,69,Adenocarcinoma;Mucinous
+836,RIGHT,T,C106,LiveMACS,MLH1 and PMS2 deficient,2,24,Adenocarcinoma;Mucinous
+837,RIGHT,T,C106,LiveMACS,MLH1 and PMS2 deficient,4,3,Adenocarcinoma;Mucinous
+838,RIGHT,T,C106,LiveMACS,MLH1 and PMS2 deficient,6,2,Adenocarcinoma;Mucinous
+839,RIGHT,T,C106,LiveMACS,MLH1 and PMS2 deficient,9,21,Adenocarcinoma;Mucinous
+840,RIGHT,T,C106,LiveMACS,MLH1 and PMS2 deficient,12,3,Adenocarcinoma;Mucinous
+841,RIGHT,T,C106,LiveMACS,MLH1 and PMS2 deficient,13,6,Adenocarcinoma;Mucinous
+842,RIGHT,T,C106,LiveMACS,MLH1 and PMS2 deficient,22,2,Adenocarcinoma;Mucinous
+844,RIGHT,T,C106,unosrted,MLH1 and PMS2 deficient,1,208,Adenocarcinoma;Mucinous
+845,RIGHT,T,C106,unosrted,MLH1 and PMS2 deficient,2,94,Adenocarcinoma;Mucinous
+846,RIGHT,T,C106,unosrted,MLH1 and PMS2 deficient,4,2,Adenocarcinoma;Mucinous
+847,RIGHT,T,C106,unosrted,MLH1 and PMS2 deficient,5,1,Adenocarcinoma;Mucinous
+848,RIGHT,T,C106,unosrted,MLH1 and PMS2 deficient,6,4,Adenocarcinoma;Mucinous
+849,RIGHT,T,C106,unosrted,MLH1 and PMS2 deficient,9,69,Adenocarcinoma;Mucinous
+850,RIGHT,T,C106,unosrted,MLH1 and PMS2 deficient,12,1,Adenocarcinoma;Mucinous
+851,RIGHT,T,C106,unosrted,MLH1 and PMS2 deficient,13,23,Adenocarcinoma;Mucinous
+852,RIGHT,T,C106,unosrted,MLH1 and PMS2 deficient,19,3,Adenocarcinoma;Mucinous
+853,RIGHT,T,C106,unosrted,MLH1 and PMS2 deficient,22,1,Adenocarcinoma;Mucinous
+855,RIGHT,T,C107,CD45pMACS,MSS,1,42,Adenocarcinoma
+856,RIGHT,T,C107,CD45pMACS,MSS,2,17,Adenocarcinoma
+857,RIGHT,T,C107,CD45pMACS,MSS,3,6,Adenocarcinoma
+858,RIGHT,T,C107,CD45pMACS,MSS,4,1,Adenocarcinoma
+859,RIGHT,T,C107,CD45pMACS,MSS,6,1,Adenocarcinoma
+860,RIGHT,T,C107,CD45pMACS,MSS,8,1,Adenocarcinoma
+861,RIGHT,T,C107,CD45pMACS,MSS,9,3,Adenocarcinoma
+862,RIGHT,T,C107,CD45pMACS,MSS,10,5,Adenocarcinoma
+863,RIGHT,T,C107,CD45pMACS,MSS,13,17,Adenocarcinoma
+864,RIGHT,T,C107,CD45pMACS,MSS,15,3,Adenocarcinoma
+865,RIGHT,T,C107,CD45pMACS,MSS,17,2,Adenocarcinoma
+866,RIGHT,T,C107,CD45pMACS,MSS,19,3,Adenocarcinoma
+867,RIGHT,T,C107,CD45pMACS,MSS,20,227,Adenocarcinoma
+868,RIGHT,T,C107,CD45pMACS,MSS,22,1,Adenocarcinoma
+870,RIGHT,T,C107,LiveMACS,MSS,1,17,Adenocarcinoma
+871,RIGHT,T,C107,LiveMACS,MSS,2,3,Adenocarcinoma
+872,RIGHT,T,C107,LiveMACS,MSS,3,2,Adenocarcinoma
+873,RIGHT,T,C107,LiveMACS,MSS,4,2,Adenocarcinoma
+874,RIGHT,T,C107,LiveMACS,MSS,6,15,Adenocarcinoma
+875,RIGHT,T,C107,LiveMACS,MSS,9,2,Adenocarcinoma
+876,RIGHT,T,C107,LiveMACS,MSS,17,8,Adenocarcinoma
+877,RIGHT,T,C107,LiveMACS,MSS,18,1,Adenocarcinoma
+878,RIGHT,T,C107,LiveMACS,MSS,20,30,Adenocarcinoma
+879,RIGHT,T,C107,LiveMACS,MSS,22,16,Adenocarcinoma
+881,RIGHT,T,C107,unosrted,MSS,1,101,Adenocarcinoma
+882,RIGHT,T,C107,unosrted,MSS,2,49,Adenocarcinoma
+883,RIGHT,T,C107,unosrted,MSS,3,16,Adenocarcinoma
+884,RIGHT,T,C107,unosrted,MSS,4,14,Adenocarcinoma
+885,RIGHT,T,C107,unosrted,MSS,6,17,Adenocarcinoma
+886,RIGHT,T,C107,unosrted,MSS,8,6,Adenocarcinoma
+887,RIGHT,T,C107,unosrted,MSS,9,8,Adenocarcinoma
+888,RIGHT,T,C107,unosrted,MSS,10,8,Adenocarcinoma
+889,RIGHT,T,C107,unosrted,MSS,12,3,Adenocarcinoma
+890,RIGHT,T,C107,unosrted,MSS,13,81,Adenocarcinoma
+891,RIGHT,T,C107,unosrted,MSS,15,6,Adenocarcinoma
+892,RIGHT,T,C107,unosrted,MSS,17,6,Adenocarcinoma
+893,RIGHT,T,C107,unosrted,MSS,18,1,Adenocarcinoma
+894,RIGHT,T,C107,unosrted,MSS,19,1,Adenocarcinoma
+895,RIGHT,T,C107,unosrted,MSS,20,806,Adenocarcinoma
+896,RIGHT,T,C107,unosrted,MSS,22,10,Adenocarcinoma
+898,RIGHT,T,C109,CD45pMACS,MLH1 and PMS2 deficient,1,4,Adenocarcinoma
+899,RIGHT,T,C109,CD45pMACS,MLH1 and PMS2 deficient,3,103,Adenocarcinoma
+900,RIGHT,T,C109,CD45pMACS,MLH1 and PMS2 deficient,4,1,Adenocarcinoma
+901,RIGHT,T,C109,CD45pMACS,MLH1 and PMS2 deficient,6,1,Adenocarcinoma
+902,RIGHT,T,C109,CD45pMACS,MLH1 and PMS2 deficient,8,27,Adenocarcinoma
+903,RIGHT,T,C109,CD45pMACS,MLH1 and PMS2 deficient,9,6,Adenocarcinoma
+904,RIGHT,T,C109,CD45pMACS,MLH1 and PMS2 deficient,17,1,Adenocarcinoma
+906,RIGHT,T,C109,unosrted,MLH1 and PMS2 deficient,1,11,Adenocarcinoma
+907,RIGHT,T,C109,unosrted,MLH1 and PMS2 deficient,2,1,Adenocarcinoma
+908,RIGHT,T,C109,unosrted,MLH1 and PMS2 deficient,3,266,Adenocarcinoma
+909,RIGHT,T,C109,unosrted,MLH1 and PMS2 deficient,4,3,Adenocarcinoma
+910,RIGHT,T,C109,unosrted,MLH1 and PMS2 deficient,5,1,Adenocarcinoma
+911,RIGHT,T,C109,unosrted,MLH1 and PMS2 deficient,8,95,Adenocarcinoma
+912,RIGHT,T,C109,unosrted,MLH1 and PMS2 deficient,9,7,Adenocarcinoma
+913,RIGHT,T,C109,unosrted,MLH1 and PMS2 deficient,10,1,Adenocarcinoma
+914,RIGHT,T,C109,unosrted,MLH1 and PMS2 deficient,13,1,Adenocarcinoma
+915,RIGHT,T,C109,unosrted,MLH1 and PMS2 deficient,15,3,Adenocarcinoma
+917,RIGHT,T,C110,CD45pMACS,MLH1 and PMS2 deficient,1,109,Adenocarcinoma;Medullary (with solid growth pattern)
+918,RIGHT,T,C110,CD45pMACS,MLH1 and PMS2 deficient,2,12,Adenocarcinoma;Medullary (with solid growth pattern)
+919,RIGHT,T,C110,CD45pMACS,MLH1 and PMS2 deficient,9,1,Adenocarcinoma;Medullary (with solid growth pattern)
+920,RIGHT,T,C110,CD45pMACS,MLH1 and PMS2 deficient,10,1,Adenocarcinoma;Medullary (with solid growth pattern)
+921,RIGHT,T,C110,CD45pMACS,MLH1 and PMS2 deficient,15,2,Adenocarcinoma;Medullary (with solid growth pattern)
+922,RIGHT,T,C110,CD45pMACS,MLH1 and PMS2 deficient,19,168,Adenocarcinoma;Medullary (with solid growth pattern)
+924,RIGHT,T,C110,unosrted,MLH1 and PMS2 deficient,1,69,Adenocarcinoma;Medullary (with solid growth pattern)
+925,RIGHT,T,C110,unosrted,MLH1 and PMS2 deficient,2,4,Adenocarcinoma;Medullary (with solid growth pattern)
+926,RIGHT,T,C110,unosrted,MLH1 and PMS2 deficient,9,1,Adenocarcinoma;Medullary (with solid growth pattern)
+927,RIGHT,T,C110,unosrted,MLH1 and PMS2 deficient,10,1,Adenocarcinoma;Medullary (with solid growth pattern)
+928,RIGHT,T,C110,unosrted,MLH1 and PMS2 deficient,19,272,Adenocarcinoma;Medullary (with solid growth pattern)
+930,RIGHT,T,C111,CD45pMACS,MLH1 and PMS2 deficient,1,59,Adenocarcinoma
+931,RIGHT,T,C111,CD45pMACS,MLH1 and PMS2 deficient,2,9,Adenocarcinoma
+933,RIGHT,T,C111,unosrted,MLH1 and PMS2 deficient,1,261,Adenocarcinoma
+934,RIGHT,T,C111,unosrted,MLH1 and PMS2 deficient,2,52,Adenocarcinoma
+935,RIGHT,T,C111,unosrted,MLH1 and PMS2 deficient,3,1,Adenocarcinoma
+936,RIGHT,T,C111,unosrted,MLH1 and PMS2 deficient,10,2,Adenocarcinoma
+937,RIGHT,T,C111,unosrted,MLH1 and PMS2 deficient,13,4,Adenocarcinoma
+938,RIGHT,T,C111,unosrted,MLH1 and PMS2 deficient,15,3,Adenocarcinoma
+940,RIGHT,T,C112,CD45pMACS,MSS,1,2,Adenocarcinoma
+941,RIGHT,T,C112,CD45pMACS,MSS,2,1,Adenocarcinoma
+942,RIGHT,T,C112,CD45pMACS,MSS,3,100,Adenocarcinoma
+943,RIGHT,T,C112,CD45pMACS,MSS,6,1,Adenocarcinoma
+944,RIGHT,T,C112,CD45pMACS,MSS,8,27,Adenocarcinoma
+945,RIGHT,T,C112,CD45pMACS,MSS,9,1,Adenocarcinoma
+946,RIGHT,T,C112,CD45pMACS,MSS,11,7,Adenocarcinoma
+948,RIGHT,T,C112,unosrted,MSS,1,4,Adenocarcinoma
+949,RIGHT,T,C112,unosrted,MSS,2,2,Adenocarcinoma
+950,RIGHT,T,C112,unosrted,MSS,3,584,Adenocarcinoma
+951,RIGHT,T,C112,unosrted,MSS,4,1,Adenocarcinoma
+952,RIGHT,T,C112,unosrted,MSS,5,3,Adenocarcinoma
+953,RIGHT,T,C112,unosrted,MSS,6,7,Adenocarcinoma
+954,RIGHT,T,C112,unosrted,MSS,8,211,Adenocarcinoma
+955,RIGHT,T,C112,unosrted,MSS,11,19,Adenocarcinoma
+956,RIGHT,T,C112,unosrted,MSS,12,1,Adenocarcinoma
+958,RIGHT,T,C113,CD45pMACS,MSS,1,305,Adenocarcinoma
+959,RIGHT,T,C113,CD45pMACS,MSS,2,46,Adenocarcinoma
+960,RIGHT,T,C113,CD45pMACS,MSS,3,85,Adenocarcinoma
+961,RIGHT,T,C113,CD45pMACS,MSS,4,5,Adenocarcinoma
+962,RIGHT,T,C113,CD45pMACS,MSS,5,2,Adenocarcinoma
+963,RIGHT,T,C113,CD45pMACS,MSS,6,8,Adenocarcinoma
+964,RIGHT,T,C113,CD45pMACS,MSS,8,44,Adenocarcinoma
+965,RIGHT,T,C113,CD45pMACS,MSS,9,14,Adenocarcinoma
+966,RIGHT,T,C113,CD45pMACS,MSS,10,1,Adenocarcinoma
+967,RIGHT,T,C113,CD45pMACS,MSS,12,3,Adenocarcinoma
+968,RIGHT,T,C113,CD45pMACS,MSS,13,11,Adenocarcinoma
+969,RIGHT,T,C113,CD45pMACS,MSS,15,2,Adenocarcinoma
+970,RIGHT,T,C113,CD45pMACS,MSS,17,1,Adenocarcinoma
+971,RIGHT,T,C113,CD45pMACS,MSS,18,4,Adenocarcinoma
+972,RIGHT,T,C113,CD45pMACS,MSS,20,7,Adenocarcinoma
+973,RIGHT,T,C113,CD45pMACS,MSS,22,2,Adenocarcinoma
+975,RIGHT,T,C113,unosrted,MSS,1,406,Adenocarcinoma
+976,RIGHT,T,C113,unosrted,MSS,2,81,Adenocarcinoma
+977,RIGHT,T,C113,unosrted,MSS,3,102,Adenocarcinoma
+978,RIGHT,T,C113,unosrted,MSS,4,19,Adenocarcinoma
+979,RIGHT,T,C113,unosrted,MSS,5,2,Adenocarcinoma
+980,RIGHT,T,C113,unosrted,MSS,6,18,Adenocarcinoma
+981,RIGHT,T,C113,unosrted,MSS,7,5,Adenocarcinoma
+982,RIGHT,T,C113,unosrted,MSS,8,52,Adenocarcinoma
+983,RIGHT,T,C113,unosrted,MSS,9,33,Adenocarcinoma
+984,RIGHT,T,C113,unosrted,MSS,10,3,Adenocarcinoma
+985,RIGHT,T,C113,unosrted,MSS,11,1,Adenocarcinoma
+986,RIGHT,T,C113,unosrted,MSS,12,11,Adenocarcinoma
+987,RIGHT,T,C113,unosrted,MSS,13,15,Adenocarcinoma
+988,RIGHT,T,C113,unosrted,MSS,15,1,Adenocarcinoma
+989,RIGHT,T,C113,unosrted,MSS,17,6,Adenocarcinoma
+990,RIGHT,T,C113,unosrted,MSS,18,5,Adenocarcinoma
+991,RIGHT,T,C113,unosrted,MSS,20,10,Adenocarcinoma
+992,RIGHT,T,C113,unosrted,MSS,22,2,Adenocarcinoma
+994,RIGHT,T,C114,CD45pMACS,MLH1 and PMS2 deficient,1,130,Adenocarcinoma
+995,RIGHT,T,C114,CD45pMACS,MLH1 and PMS2 deficient,2,115,Adenocarcinoma
+996,RIGHT,T,C114,CD45pMACS,MLH1 and PMS2 deficient,4,15,Adenocarcinoma
+997,RIGHT,T,C114,CD45pMACS,MLH1 and PMS2 deficient,5,5,Adenocarcinoma
+998,RIGHT,T,C114,CD45pMACS,MLH1 and PMS2 deficient,6,10,Adenocarcinoma
+999,RIGHT,T,C114,CD45pMACS,MLH1 and PMS2 deficient,7,1,Adenocarcinoma
+1000,RIGHT,T,C114,CD45pMACS,MLH1 and PMS2 deficient,9,10,Adenocarcinoma
+1001,RIGHT,T,C114,CD45pMACS,MLH1 and PMS2 deficient,10,2,Adenocarcinoma
+1002,RIGHT,T,C114,CD45pMACS,MLH1 and PMS2 deficient,13,127,Adenocarcinoma
+1003,RIGHT,T,C114,CD45pMACS,MLH1 and PMS2 deficient,18,1,Adenocarcinoma
+1004,RIGHT,T,C114,CD45pMACS,MLH1 and PMS2 deficient,19,10,Adenocarcinoma
+1006,RIGHT,T,C114,unosrted,MLH1 and PMS2 deficient,1,109,Adenocarcinoma
+1007,RIGHT,T,C114,unosrted,MLH1 and PMS2 deficient,2,141,Adenocarcinoma
+1008,RIGHT,T,C114,unosrted,MLH1 and PMS2 deficient,4,10,Adenocarcinoma
+1009,RIGHT,T,C114,unosrted,MLH1 and PMS2 deficient,5,1,Adenocarcinoma
+1010,RIGHT,T,C114,unosrted,MLH1 and PMS2 deficient,6,8,Adenocarcinoma
+1011,RIGHT,T,C114,unosrted,MLH1 and PMS2 deficient,8,1,Adenocarcinoma
+1012,RIGHT,T,C114,unosrted,MLH1 and PMS2 deficient,9,28,Adenocarcinoma
+1013,RIGHT,T,C114,unosrted,MLH1 and PMS2 deficient,10,1,Adenocarcinoma
+1014,RIGHT,T,C114,unosrted,MLH1 and PMS2 deficient,12,5,Adenocarcinoma
+1015,RIGHT,T,C114,unosrted,MLH1 and PMS2 deficient,13,86,Adenocarcinoma
+1016,RIGHT,T,C114,unosrted,MLH1 and PMS2 deficient,16,1,Adenocarcinoma
+1017,RIGHT,T,C114,unosrted,MLH1 and PMS2 deficient,19,8,Adenocarcinoma
+1018,RIGHT,T,C114,unosrted,MLH1 and PMS2 deficient,22,1,Adenocarcinoma
+1019,RIGHT,T,C115,CD45pMACS,MLH1 and PMS2 deficient,1,3,Adenocarcinoma
+1020,RIGHT,T,C115,CD45pMACS,MLH1 and PMS2 deficient,2,2,Adenocarcinoma
+1021,RIGHT,T,C115,CD45pMACS,MLH1 and PMS2 deficient,9,2,Adenocarcinoma
+1022,RIGHT,T,C115,CD45pMACS,MLH1 and PMS2 deficient,13,3,Adenocarcinoma
+1024,RIGHT,T,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,1,110,Adenocarcinoma
+1025,RIGHT,T,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,2,72,Adenocarcinoma
+1026,RIGHT,T,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,4,3,Adenocarcinoma
+1027,RIGHT,T,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,5,4,Adenocarcinoma
+1028,RIGHT,T,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,8,1,Adenocarcinoma
+1029,RIGHT,T,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,9,42,Adenocarcinoma
+1030,RIGHT,T,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,12,1,Adenocarcinoma
+1031,RIGHT,T,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,13,63,Adenocarcinoma
+1032,RIGHT,T,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,18,1,Adenocarcinoma
+1033,RIGHT,T,C115,mixUnsortCD45MACS,MLH1 and PMS2 deficient,20,1,Adenocarcinoma
+1035,RIGHT,T,C116,CD45pMACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,1,85,Adenocarcinoma
+1036,RIGHT,T,C116,CD45pMACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,2,56,Adenocarcinoma
+1037,RIGHT,T,C116,CD45pMACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,4,12,Adenocarcinoma
+1038,RIGHT,T,C116,CD45pMACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,5,11,Adenocarcinoma
+1039,RIGHT,T,C116,CD45pMACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,6,1,Adenocarcinoma
+1040,RIGHT,T,C116,CD45pMACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,9,16,Adenocarcinoma
+1041,RIGHT,T,C116,CD45pMACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,10,1,Adenocarcinoma
+1042,RIGHT,T,C116,CD45pMACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,12,3,Adenocarcinoma
+1044,RIGHT,T,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,1,74,Adenocarcinoma
+1045,RIGHT,T,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,2,75,Adenocarcinoma
+1046,RIGHT,T,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,4,11,Adenocarcinoma
+1047,RIGHT,T,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,5,6,Adenocarcinoma
+1048,RIGHT,T,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,6,3,Adenocarcinoma
+1049,RIGHT,T,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,9,21,Adenocarcinoma
+1050,RIGHT,T,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,12,3,Adenocarcinoma
+1051,RIGHT,T,C116,mixUnsortCD45MACS,Isolated PMS2 deficiency; confirmed germline PMS2 variant,13,3,Adenocarcinoma
+1053,RIGHT,T,C116,unosrted,Isolated PMS2 deficiency; confirmed germline PMS2 variant,1,16,Adenocarcinoma
+1054,RIGHT,T,C116,unosrted,Isolated PMS2 deficiency; confirmed germline PMS2 variant,2,23,Adenocarcinoma
+1055,RIGHT,T,C116,unosrted,Isolated PMS2 deficiency; confirmed germline PMS2 variant,6,5,Adenocarcinoma
+1056,RIGHT,T,C116,unosrted,Isolated PMS2 deficiency; confirmed germline PMS2 variant,8,1,Adenocarcinoma
+1057,RIGHT,T,C116,unosrted,Isolated PMS2 deficiency; confirmed germline PMS2 variant,9,5,Adenocarcinoma
+1058,RIGHT,T,C116,unosrted,Isolated PMS2 deficiency; confirmed germline PMS2 variant,12,2,Adenocarcinoma
+1059,RIGHT,T,C116,unosrted,Isolated PMS2 deficiency; confirmed germline PMS2 variant,13,1,Adenocarcinoma
+1060,RIGHT,T,C116,unosrted,Isolated PMS2 deficiency; confirmed germline PMS2 variant,17,1,Adenocarcinoma
+1061,RIGHT,T,C116,unosrted,Isolated PMS2 deficiency; confirmed germline PMS2 variant,22,2,Adenocarcinoma
+1063,RIGHT,T,C118,CD45pMACS,MLH1 and PMS2 deficient,1,202,Adenocarcinoma
+1064,RIGHT,T,C118,CD45pMACS,MLH1 and PMS2 deficient,2,55,Adenocarcinoma
+1065,RIGHT,T,C118,CD45pMACS,MLH1 and PMS2 deficient,9,3,Adenocarcinoma
+1066,RIGHT,T,C118,CD45pMACS,MLH1 and PMS2 deficient,13,2,Adenocarcinoma
+1067,RIGHT,T,C118,CD45pMACS,MLH1 and PMS2 deficient,19,6,Adenocarcinoma
+1069,RIGHT,T,C118,mixUnsortCD45MACS,MLH1 and PMS2 deficient,1,274,Adenocarcinoma
+1070,RIGHT,T,C118,mixUnsortCD45MACS,MLH1 and PMS2 deficient,2,120,Adenocarcinoma
+1071,RIGHT,T,C118,mixUnsortCD45MACS,MLH1 and PMS2 deficient,6,1,Adenocarcinoma
+1072,RIGHT,T,C118,mixUnsortCD45MACS,MLH1 and PMS2 deficient,9,7,Adenocarcinoma
+1073,RIGHT,T,C118,mixUnsortCD45MACS,MLH1 and PMS2 deficient,13,4,Adenocarcinoma
+1074,RIGHT,T,C118,mixUnsortCD45MACS,MLH1 and PMS2 deficient,15,1,Adenocarcinoma
+1075,RIGHT,T,C118,mixUnsortCD45MACS,MLH1 and PMS2 deficient,19,9,Adenocarcinoma
+1077,RIGHT,T,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",1,284,Adenocarcinoma
+1078,RIGHT,T,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",2,205,Adenocarcinoma
+1079,RIGHT,T,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",3,7,Adenocarcinoma
+1080,RIGHT,T,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",4,2,Adenocarcinoma
+1081,RIGHT,T,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",8,25,Adenocarcinoma
+1082,RIGHT,T,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",9,6,Adenocarcinoma
+1083,RIGHT,T,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",10,1,Adenocarcinoma
+1084,RIGHT,T,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",12,1,Adenocarcinoma
+1085,RIGHT,T,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",13,11,Adenocarcinoma
+1086,RIGHT,T,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",19,5,Adenocarcinoma
+1087,RIGHT,T,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",20,41,Adenocarcinoma
+1088,RIGHT,T,C119,unosrted,"Intact nuclear staining of MLH1, MSH2, MSH6 and PMS2. MSI-H by PCR-MSI testing.",22,2,Adenocarcinoma
+1090,RIGHT,T,C122,CD45pMACS,MLH1 and PMS2 deficient,1,121,Adenocarcinoma
+1091,RIGHT,T,C122,CD45pMACS,MLH1 and PMS2 deficient,2,64,Adenocarcinoma
+1092,RIGHT,T,C122,CD45pMACS,MLH1 and PMS2 deficient,4,25,Adenocarcinoma
+1093,RIGHT,T,C122,CD45pMACS,MLH1 and PMS2 deficient,5,3,Adenocarcinoma
+1094,RIGHT,T,C122,CD45pMACS,MLH1 and PMS2 deficient,6,26,Adenocarcinoma
+1095,RIGHT,T,C122,CD45pMACS,MLH1 and PMS2 deficient,7,1,Adenocarcinoma
+1096,RIGHT,T,C122,CD45pMACS,MLH1 and PMS2 deficient,12,5,Adenocarcinoma
+1097,RIGHT,T,C122,CD45pMACS,MLH1 and PMS2 deficient,13,1,Adenocarcinoma
+1098,RIGHT,T,C122,CD45pMACS,MLH1 and PMS2 deficient,17,1,Adenocarcinoma
+1099,RIGHT,T,C122,CD45pMACS,MLH1 and PMS2 deficient,19,1,Adenocarcinoma
+1101,RIGHT,T,C122,unosrted,MLH1 and PMS2 deficient,1,383,Adenocarcinoma
+1102,RIGHT,T,C122,unosrted,MLH1 and PMS2 deficient,2,207,Adenocarcinoma
+1103,RIGHT,T,C122,unosrted,MLH1 and PMS2 deficient,3,1,Adenocarcinoma
+1104,RIGHT,T,C122,unosrted,MLH1 and PMS2 deficient,4,56,Adenocarcinoma
+1105,RIGHT,T,C122,unosrted,MLH1 and PMS2 deficient,5,23,Adenocarcinoma
+1106,RIGHT,T,C122,unosrted,MLH1 and PMS2 deficient,6,31,Adenocarcinoma
+1107,RIGHT,T,C122,unosrted,MLH1 and PMS2 deficient,8,3,Adenocarcinoma
+1108,RIGHT,T,C122,unosrted,MLH1 and PMS2 deficient,9,20,Adenocarcinoma
+1109,RIGHT,T,C122,unosrted,MLH1 and PMS2 deficient,10,3,Adenocarcinoma
+1110,RIGHT,T,C122,unosrted,MLH1 and PMS2 deficient,12,19,Adenocarcinoma
+1111,RIGHT,T,C122,unosrted,MLH1 and PMS2 deficient,13,7,Adenocarcinoma
+1112,RIGHT,T,C122,unosrted,MLH1 and PMS2 deficient,17,7,Adenocarcinoma
+1113,RIGHT,T,C122,unosrted,MLH1 and PMS2 deficient,20,2,Adenocarcinoma
+1114,RIGHT,T,C122,unosrted,MLH1 and PMS2 deficient,22,1,Adenocarcinoma
+1116,RIGHT,T,C123,CD45pMACS,MLH1 and PMS2 deficient,1,429,Adenocarcinoma
+1117,RIGHT,T,C123,CD45pMACS,MLH1 and PMS2 deficient,2,357,Adenocarcinoma
+1118,RIGHT,T,C123,CD45pMACS,MLH1 and PMS2 deficient,4,4,Adenocarcinoma
+1119,RIGHT,T,C123,CD45pMACS,MLH1 and PMS2 deficient,5,4,Adenocarcinoma
+1120,RIGHT,T,C123,CD45pMACS,MLH1 and PMS2 deficient,6,7,Adenocarcinoma
+1121,RIGHT,T,C123,CD45pMACS,MLH1 and PMS2 deficient,8,1,Adenocarcinoma
+1122,RIGHT,T,C123,CD45pMACS,MLH1 and PMS2 deficient,9,4,Adenocarcinoma
+1123,RIGHT,T,C123,CD45pMACS,MLH1 and PMS2 deficient,10,1,Adenocarcinoma
+1124,RIGHT,T,C123,CD45pMACS,MLH1 and PMS2 deficient,12,1,Adenocarcinoma
+1125,RIGHT,T,C123,CD45pMACS,MLH1 and PMS2 deficient,13,1,Adenocarcinoma
+1126,RIGHT,T,C123,CD45pMACS,MLH1 and PMS2 deficient,15,1,Adenocarcinoma
+1127,RIGHT,T,C123,CD45pMACS,MLH1 and PMS2 deficient,19,1,Adenocarcinoma
+1129,RIGHT,T,C123,unosrted,MLH1 and PMS2 deficient,1,781,Adenocarcinoma
+1130,RIGHT,T,C123,unosrted,MLH1 and PMS2 deficient,2,905,Adenocarcinoma
+1131,RIGHT,T,C123,unosrted,MLH1 and PMS2 deficient,4,17,Adenocarcinoma
+1132,RIGHT,T,C123,unosrted,MLH1 and PMS2 deficient,5,7,Adenocarcinoma
+1133,RIGHT,T,C123,unosrted,MLH1 and PMS2 deficient,6,7,Adenocarcinoma
+1134,RIGHT,T,C123,unosrted,MLH1 and PMS2 deficient,8,1,Adenocarcinoma
+1135,RIGHT,T,C123,unosrted,MLH1 and PMS2 deficient,9,6,Adenocarcinoma
+1136,RIGHT,T,C123,unosrted,MLH1 and PMS2 deficient,10,1,Adenocarcinoma
+1137,RIGHT,T,C123,unosrted,MLH1 and PMS2 deficient,12,5,Adenocarcinoma
+1138,RIGHT,T,C123,unosrted,MLH1 and PMS2 deficient,15,4,Adenocarcinoma
+1139,RIGHT,T,C123,unosrted,MLH1 and PMS2 deficient,17,3,Adenocarcinoma
+1140,RIGHT,T,C123,unosrted,MLH1 and PMS2 deficient,19,7,Adenocarcinoma
+1142,RIGHT,T,C126,CD45pMACS,MSS,1,183,Adenocarcinoma;Mucinous
+1143,RIGHT,T,C126,CD45pMACS,MSS,2,24,Adenocarcinoma;Mucinous
+1144,RIGHT,T,C126,CD45pMACS,MSS,3,3,Adenocarcinoma;Mucinous
+1145,RIGHT,T,C126,CD45pMACS,MSS,4,2,Adenocarcinoma;Mucinous
+1146,RIGHT,T,C126,CD45pMACS,MSS,5,1,Adenocarcinoma;Mucinous
+1147,RIGHT,T,C126,CD45pMACS,MSS,9,6,Adenocarcinoma;Mucinous
+1148,RIGHT,T,C126,CD45pMACS,MSS,13,10,Adenocarcinoma;Mucinous
+1149,RIGHT,T,C126,CD45pMACS,MSS,15,2,Adenocarcinoma;Mucinous
+1150,RIGHT,T,C126,CD45pMACS,MSS,18,1,Adenocarcinoma;Mucinous
+1151,RIGHT,T,C126,CD45pMACS,MSS,20,2,Adenocarcinoma;Mucinous
+1153,RIGHT,T,C126,unosrted,MSS,1,258,Adenocarcinoma;Mucinous
+1154,RIGHT,T,C126,unosrted,MSS,2,66,Adenocarcinoma;Mucinous
+1155,RIGHT,T,C126,unosrted,MSS,3,7,Adenocarcinoma;Mucinous
+1156,RIGHT,T,C126,unosrted,MSS,5,7,Adenocarcinoma;Mucinous
+1157,RIGHT,T,C126,unosrted,MSS,6,2,Adenocarcinoma;Mucinous
+1158,RIGHT,T,C126,unosrted,MSS,8,2,Adenocarcinoma;Mucinous
+1159,RIGHT,T,C126,unosrted,MSS,9,29,Adenocarcinoma;Mucinous
+1160,RIGHT,T,C126,unosrted,MSS,12,6,Adenocarcinoma;Mucinous
+1161,RIGHT,T,C126,unosrted,MSS,13,14,Adenocarcinoma;Mucinous
+1162,RIGHT,T,C126,unosrted,MSS,15,2,Adenocarcinoma;Mucinous
+1163,RIGHT,T,C126,unosrted,MSS,18,2,Adenocarcinoma;Mucinous
+1164,RIGHT,T,C126,unosrted,MSS,20,4,Adenocarcinoma;Mucinous
+1166,RIGHT,T,C133,unosrted,MSS,1,349,Adenocarcinoma;Mucinous
+1167,RIGHT,T,C133,unosrted,MSS,2,57,Adenocarcinoma;Mucinous
+1168,RIGHT,T,C133,unosrted,MSS,3,6,Adenocarcinoma;Mucinous
+1169,RIGHT,T,C133,unosrted,MSS,5,1,Adenocarcinoma;Mucinous
+1170,RIGHT,T,C133,unosrted,MSS,6,1,Adenocarcinoma;Mucinous
+1171,RIGHT,T,C133,unosrted,MSS,9,41,Adenocarcinoma;Mucinous
+1172,RIGHT,T,C133,unosrted,MSS,12,1,Adenocarcinoma;Mucinous
+1173,RIGHT,T,C133,unosrted,MSS,13,311,Adenocarcinoma;Mucinous
+1174,RIGHT,T,C133,unosrted,MSS,15,32,Adenocarcinoma;Mucinous
+1175,RIGHT,T,C133,unosrted,MSS,16,1,Adenocarcinoma;Mucinous
+1176,RIGHT,T,C133,unosrted,MSS,22,9,Adenocarcinoma;Mucinous
+1178,RIGHT,T,C135,CD45pMACS,MSS,1,30,Adenocarcinoma
+1179,RIGHT,T,C135,CD45pMACS,MSS,2,4,Adenocarcinoma
+1180,RIGHT,T,C135,CD45pMACS,MSS,3,150,Adenocarcinoma
+1181,RIGHT,T,C135,CD45pMACS,MSS,8,45,Adenocarcinoma
+1182,RIGHT,T,C135,CD45pMACS,MSS,10,1,Adenocarcinoma
+1183,RIGHT,T,C135,CD45pMACS,MSS,12,2,Adenocarcinoma
+1184,RIGHT,T,C135,CD45pMACS,MSS,15,1,Adenocarcinoma
+1185,RIGHT,T,C135,CD45pMACS,MSS,18,1,Adenocarcinoma
+1187,RIGHT,T,C135,unosrted,MSS,1,30,Adenocarcinoma
+1188,RIGHT,T,C135,unosrted,MSS,3,162,Adenocarcinoma
+1189,RIGHT,T,C135,unosrted,MSS,8,52,Adenocarcinoma
+1190,RIGHT,T,C135,unosrted,MSS,9,1,Adenocarcinoma
+1191,RIGHT,T,C135,unosrted,MSS,12,9,Adenocarcinoma
+1192,RIGHT,T,C135,unosrted,MSS,13,6,Adenocarcinoma
+1193,RIGHT,T,C135,unosrted,MSS,18,1,Adenocarcinoma
+1195,RIGHT,T,C137,CD45pMACS,Isolated PMS2 deficiency,1,106,Adenocarcinoma
+1196,RIGHT,T,C137,CD45pMACS,Isolated PMS2 deficiency,2,50,Adenocarcinoma
+1197,RIGHT,T,C137,CD45pMACS,Isolated PMS2 deficiency,15,1,Adenocarcinoma
+1198,RIGHT,T,C137,CD45pMACS,Isolated PMS2 deficiency,19,5,Adenocarcinoma
+1200,RIGHT,T,C137,unosrted,Isolated PMS2 deficiency,1,236,Adenocarcinoma
+1201,RIGHT,T,C137,unosrted,Isolated PMS2 deficiency,2,100,Adenocarcinoma
+1202,RIGHT,T,C137,unosrted,Isolated PMS2 deficiency,9,4,Adenocarcinoma
+1203,RIGHT,T,C137,unosrted,Isolated PMS2 deficiency,13,3,Adenocarcinoma
+1204,RIGHT,T,C137,unosrted,Isolated PMS2 deficiency,15,1,Adenocarcinoma
+1205,RIGHT,T,C137,unosrted,Isolated PMS2 deficiency,19,11,Adenocarcinoma
+1207,RIGHT,T,C138,CD45pMACS,MSH2 and MSH6 deficient,1,16,Adenocarcinoma;Mucinous
+1208,RIGHT,T,C138,CD45pMACS,MSH2 and MSH6 deficient,2,6,Adenocarcinoma;Mucinous
+1209,RIGHT,T,C138,CD45pMACS,MSH2 and MSH6 deficient,4,1,Adenocarcinoma;Mucinous
+1210,RIGHT,T,C138,CD45pMACS,MSH2 and MSH6 deficient,6,1,Adenocarcinoma;Mucinous
+1211,RIGHT,T,C138,CD45pMACS,MSH2 and MSH6 deficient,9,4,Adenocarcinoma;Mucinous
+1212,RIGHT,T,C138,CD45pMACS,MSH2 and MSH6 deficient,13,3,Adenocarcinoma;Mucinous
+1213,RIGHT,T,C138,CD45pMACS,MSH2 and MSH6 deficient,22,1,Adenocarcinoma;Mucinous
+1215,RIGHT,T,C138,unosrted,MSH2 and MSH6 deficient,1,86,Adenocarcinoma;Mucinous
+1216,RIGHT,T,C138,unosrted,MSH2 and MSH6 deficient,2,55,Adenocarcinoma;Mucinous
+1217,RIGHT,T,C138,unosrted,MSH2 and MSH6 deficient,4,1,Adenocarcinoma;Mucinous
+1218,RIGHT,T,C138,unosrted,MSH2 and MSH6 deficient,7,1,Adenocarcinoma;Mucinous
+1219,RIGHT,T,C138,unosrted,MSH2 and MSH6 deficient,8,5,Adenocarcinoma;Mucinous
+1220,RIGHT,T,C138,unosrted,MSH2 and MSH6 deficient,9,50,Adenocarcinoma;Mucinous
+1221,RIGHT,T,C138,unosrted,MSH2 and MSH6 deficient,10,1,Adenocarcinoma;Mucinous
+1222,RIGHT,T,C138,unosrted,MSH2 and MSH6 deficient,13,17,Adenocarcinoma;Mucinous
+1223,RIGHT,T,C138,unosrted,MSH2 and MSH6 deficient,22,5,Adenocarcinoma;Mucinous
+1225,RIGHT,T,C139,CD45pMACS,MSI,1,121,Adenocarcinoma
+1226,RIGHT,T,C139,CD45pMACS,MSI,2,26,Adenocarcinoma
+1227,RIGHT,T,C139,CD45pMACS,MSI,3,10,Adenocarcinoma
+1228,RIGHT,T,C139,CD45pMACS,MSI,4,12,Adenocarcinoma
+1229,RIGHT,T,C139,CD45pMACS,MSI,5,4,Adenocarcinoma
+1230,RIGHT,T,C139,CD45pMACS,MSI,6,5,Adenocarcinoma
+1231,RIGHT,T,C139,CD45pMACS,MSI,8,7,Adenocarcinoma
+1232,RIGHT,T,C139,CD45pMACS,MSI,9,6,Adenocarcinoma
+1233,RIGHT,T,C139,CD45pMACS,MSI,12,2,Adenocarcinoma
+1234,RIGHT,T,C139,CD45pMACS,MSI,13,1,Adenocarcinoma
+1235,RIGHT,T,C139,CD45pMACS,MSI,17,1,Adenocarcinoma
+1236,RIGHT,T,C139,CD45pMACS,MSI,20,2,Adenocarcinoma
+1238,RIGHT,T,C139,unosrted,MSI,1,799,Adenocarcinoma
+1239,RIGHT,T,C139,unosrted,MSI,2,271,Adenocarcinoma
+1240,RIGHT,T,C139,unosrted,MSI,3,76,Adenocarcinoma
+1241,RIGHT,T,C139,unosrted,MSI,4,128,Adenocarcinoma
+1242,RIGHT,T,C139,unosrted,MSI,5,74,Adenocarcinoma
+1243,RIGHT,T,C139,unosrted,MSI,6,30,Adenocarcinoma
+1244,RIGHT,T,C139,unosrted,MSI,7,1,Adenocarcinoma
+1245,RIGHT,T,C139,unosrted,MSI,8,103,Adenocarcinoma
+1246,RIGHT,T,C139,unosrted,MSI,9,98,Adenocarcinoma
+1247,RIGHT,T,C139,unosrted,MSI,10,3,Adenocarcinoma
+1248,RIGHT,T,C139,unosrted,MSI,12,9,Adenocarcinoma
+1249,RIGHT,T,C139,unosrted,MSI,13,4,Adenocarcinoma
+1250,RIGHT,T,C139,unosrted,MSI,15,3,Adenocarcinoma
+1251,RIGHT,T,C139,unosrted,MSI,17,2,Adenocarcinoma
+1252,RIGHT,T,C139,unosrted,MSI,18,2,Adenocarcinoma
+1253,RIGHT,T,C139,unosrted,MSI,19,1,Adenocarcinoma
+1254,RIGHT,T,C139,unosrted,MSI,20,22,Adenocarcinoma
+1255,RIGHT,T,C139,unosrted,MSI,22,1,Adenocarcinoma
+1257,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,1,60,Adenocarcinoma
+1258,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,2,61,Adenocarcinoma
+1259,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,3,4,Adenocarcinoma
+1260,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,4,22,Adenocarcinoma
+1261,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,5,23,Adenocarcinoma
+1262,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,6,23,Adenocarcinoma
+1263,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,7,4,Adenocarcinoma
+1264,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,8,1,Adenocarcinoma
+1265,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,9,13,Adenocarcinoma
+1266,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,10,1,Adenocarcinoma
+1267,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,12,1,Adenocarcinoma
+1268,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,13,3,Adenocarcinoma
+1269,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,17,4,Adenocarcinoma
+1270,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,18,2,Adenocarcinoma
+1271,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,19,2,Adenocarcinoma
+1272,RIGHT,T,C142,CD45pMACS,MSH2 and MSH6 deficient,20,2,Adenocarcinoma
+1274,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,1,125,Adenocarcinoma
+1275,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,2,95,Adenocarcinoma
+1276,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,3,6,Adenocarcinoma
+1277,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,4,47,Adenocarcinoma
+1278,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,5,23,Adenocarcinoma
+1279,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,6,27,Adenocarcinoma
+1280,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,7,1,Adenocarcinoma
+1281,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,8,7,Adenocarcinoma
+1282,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,9,43,Adenocarcinoma
+1283,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,12,8,Adenocarcinoma
+1284,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,13,3,Adenocarcinoma
+1285,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,17,5,Adenocarcinoma
+1286,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,18,1,Adenocarcinoma
+1287,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,19,6,Adenocarcinoma
+1288,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,20,11,Adenocarcinoma
+1289,RIGHT,T,C142,unosrted,MSH2 and MSH6 deficient,22,4,Adenocarcinoma
+1291,RIGHT,T,C143,CD45pMACS,MSH2 and MSH6 deficient,1,100,Adenocarcinoma
+1292,RIGHT,T,C143,CD45pMACS,MSH2 and MSH6 deficient,2,35,Adenocarcinoma
+1293,RIGHT,T,C143,CD45pMACS,MSH2 and MSH6 deficient,3,1,Adenocarcinoma
+1294,RIGHT,T,C143,CD45pMACS,MSH2 and MSH6 deficient,5,1,Adenocarcinoma
+1295,RIGHT,T,C143,CD45pMACS,MSH2 and MSH6 deficient,6,2,Adenocarcinoma
+1296,RIGHT,T,C143,CD45pMACS,MSH2 and MSH6 deficient,9,7,Adenocarcinoma
+1297,RIGHT,T,C143,CD45pMACS,MSH2 and MSH6 deficient,13,2,Adenocarcinoma
+1298,RIGHT,T,C143,CD45pMACS,MSH2 and MSH6 deficient,20,3,Adenocarcinoma
+1300,RIGHT,T,C143,unosrted,MSH2 and MSH6 deficient,1,371,Adenocarcinoma
+1301,RIGHT,T,C143,unosrted,MSH2 and MSH6 deficient,2,182,Adenocarcinoma
+1302,RIGHT,T,C143,unosrted,MSH2 and MSH6 deficient,4,15,Adenocarcinoma
+1303,RIGHT,T,C143,unosrted,MSH2 and MSH6 deficient,5,6,Adenocarcinoma
+1304,RIGHT,T,C143,unosrted,MSH2 and MSH6 deficient,6,2,Adenocarcinoma
+1305,RIGHT,T,C143,unosrted,MSH2 and MSH6 deficient,7,1,Adenocarcinoma
+1306,RIGHT,T,C143,unosrted,MSH2 and MSH6 deficient,8,5,Adenocarcinoma
+1307,RIGHT,T,C143,unosrted,MSH2 and MSH6 deficient,9,29,Adenocarcinoma
+1308,RIGHT,T,C143,unosrted,MSH2 and MSH6 deficient,12,26,Adenocarcinoma
+1309,RIGHT,T,C143,unosrted,MSH2 and MSH6 deficient,13,13,Adenocarcinoma
+1310,RIGHT,T,C143,unosrted,MSH2 and MSH6 deficient,18,3,Adenocarcinoma
+1311,RIGHT,T,C143,unosrted,MSH2 and MSH6 deficient,19,8,Adenocarcinoma
+1312,RIGHT,T,C143,unosrted,MSH2 and MSH6 deficient,20,5,Adenocarcinoma
+1313,RIGHT,T,C143,unosrted,MSH2 and MSH6 deficient,22,1,Adenocarcinoma
+1315,RIGHT,T,C144,CD45pMACS,MLH1 and PMS2 deficient,1,51,Adenocarcinoma
+1316,RIGHT,T,C144,CD45pMACS,MLH1 and PMS2 deficient,2,12,Adenocarcinoma
+1317,RIGHT,T,C144,CD45pMACS,MLH1 and PMS2 deficient,4,5,Adenocarcinoma
+1318,RIGHT,T,C144,CD45pMACS,MLH1 and PMS2 deficient,5,2,Adenocarcinoma
+1319,RIGHT,T,C144,CD45pMACS,MLH1 and PMS2 deficient,7,1,Adenocarcinoma
+1320,RIGHT,T,C144,CD45pMACS,MLH1 and PMS2 deficient,13,2,Adenocarcinoma
+1322,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,1,228,Adenocarcinoma
+1323,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,2,95,Adenocarcinoma
+1324,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,4,57,Adenocarcinoma
+1325,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,5,14,Adenocarcinoma
+1326,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,6,7,Adenocarcinoma
+1327,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,7,2,Adenocarcinoma
+1328,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,9,19,Adenocarcinoma
+1329,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,10,2,Adenocarcinoma
+1330,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,12,4,Adenocarcinoma
+1331,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,13,5,Adenocarcinoma
+1332,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,15,4,Adenocarcinoma
+1333,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,16,1,Adenocarcinoma
+1334,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,17,1,Adenocarcinoma
+1335,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,18,1,Adenocarcinoma
+1336,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,19,2,Adenocarcinoma
+1337,RIGHT,T,C144,unosrted,MLH1 and PMS2 deficient,22,3,Adenocarcinoma
+1339,RIGHT,T,C145,CD45pMACS,MSS,1,2,Adenocarcinoma;Mucinous;Neuroendocrine
+1340,RIGHT,T,C145,CD45pMACS,MSS,15,3,Adenocarcinoma;Mucinous;Neuroendocrine
+1341,RIGHT,T,C145,CD45pMACS,MSS,16,358,Adenocarcinoma;Mucinous;Neuroendocrine
+1343,RIGHT,T,C145,unosrted,MSS,2,1,Adenocarcinoma;Mucinous;Neuroendocrine
+1344,RIGHT,T,C145,unosrted,MSS,9,1,Adenocarcinoma;Mucinous;Neuroendocrine
+1345,RIGHT,T,C145,unosrted,MSS,10,2,Adenocarcinoma;Mucinous;Neuroendocrine
+1346,RIGHT,T,C145,unosrted,MSS,15,7,Adenocarcinoma;Mucinous;Neuroendocrine
+1347,RIGHT,T,C145,unosrted,MSS,16,1525,Adenocarcinoma;Mucinous;Neuroendocrine
+1348,RIGHT,T,C145,unosrted,MSS,21,8,Adenocarcinoma;Mucinous;Neuroendocrine
+1349,RIGHT,T,C145,unosrted,MSS,22,1,Adenocarcinoma;Mucinous;Neuroendocrine
+1351,RIGHT,T,C146,CD45pMACS,MLH1 and PMS2 deficient,1,263,Adenocarcinoma
+1352,RIGHT,T,C146,CD45pMACS,MLH1 and PMS2 deficient,2,105,Adenocarcinoma
+1353,RIGHT,T,C146,CD45pMACS,MLH1 and PMS2 deficient,4,6,Adenocarcinoma
+1354,RIGHT,T,C146,CD45pMACS,MLH1 and PMS2 deficient,5,1,Adenocarcinoma
+1355,RIGHT,T,C146,CD45pMACS,MLH1 and PMS2 deficient,6,4,Adenocarcinoma
+1356,RIGHT,T,C146,CD45pMACS,MLH1 and PMS2 deficient,8,1,Adenocarcinoma
+1357,RIGHT,T,C146,CD45pMACS,MLH1 and PMS2 deficient,9,4,Adenocarcinoma
+1358,RIGHT,T,C146,CD45pMACS,MLH1 and PMS2 deficient,13,1,Adenocarcinoma
+1359,RIGHT,T,C146,CD45pMACS,MLH1 and PMS2 deficient,15,2,Adenocarcinoma
+1360,RIGHT,T,C146,CD45pMACS,MLH1 and PMS2 deficient,19,1,Adenocarcinoma
+1362,RIGHT,T,C146,unosrted,MLH1 and PMS2 deficient,1,627,Adenocarcinoma
+1363,RIGHT,T,C146,unosrted,MLH1 and PMS2 deficient,2,428,Adenocarcinoma
+1364,RIGHT,T,C146,unosrted,MLH1 and PMS2 deficient,4,11,Adenocarcinoma
+1365,RIGHT,T,C146,unosrted,MLH1 and PMS2 deficient,5,3,Adenocarcinoma
+1366,RIGHT,T,C146,unosrted,MLH1 and PMS2 deficient,6,4,Adenocarcinoma
+1367,RIGHT,T,C146,unosrted,MLH1 and PMS2 deficient,8,1,Adenocarcinoma
+1368,RIGHT,T,C146,unosrted,MLH1 and PMS2 deficient,9,9,Adenocarcinoma
+1369,RIGHT,T,C146,unosrted,MLH1 and PMS2 deficient,13,4,Adenocarcinoma
+1370,RIGHT,T,C146,unosrted,MLH1 and PMS2 deficient,15,6,Adenocarcinoma
+1371,RIGHT,T,C146,unosrted,MLH1 and PMS2 deficient,16,2,Adenocarcinoma
+1372,RIGHT,T,C146,unosrted,MLH1 and PMS2 deficient,17,1,Adenocarcinoma
+1373,RIGHT,T,C146,unosrted,MLH1 and PMS2 deficient,19,1,Adenocarcinoma
+1374,RIGHT,T,C146,unosrted,MLH1 and PMS2 deficient,22,9,Adenocarcinoma
+1376,RIGHT,T,C147,CD45pMACS,MLH1 and PMS2 deficient,1,424,Adenocarcinoma
+1377,RIGHT,T,C147,CD45pMACS,MLH1 and PMS2 deficient,2,45,Adenocarcinoma
+1378,RIGHT,T,C147,CD45pMACS,MLH1 and PMS2 deficient,4,1,Adenocarcinoma
+1379,RIGHT,T,C147,CD45pMACS,MLH1 and PMS2 deficient,5,1,Adenocarcinoma
+1380,RIGHT,T,C147,CD45pMACS,MLH1 and PMS2 deficient,6,6,Adenocarcinoma
+1381,RIGHT,T,C147,CD45pMACS,MLH1 and PMS2 deficient,13,10,Adenocarcinoma
+1383,RIGHT,T,C147,unosrted,MLH1 and PMS2 deficient,1,919,Adenocarcinoma
+1384,RIGHT,T,C147,unosrted,MLH1 and PMS2 deficient,2,159,Adenocarcinoma
+1385,RIGHT,T,C147,unosrted,MLH1 and PMS2 deficient,4,2,Adenocarcinoma
+1386,RIGHT,T,C147,unosrted,MLH1 and PMS2 deficient,6,3,Adenocarcinoma
+1387,RIGHT,T,C147,unosrted,MLH1 and PMS2 deficient,9,11,Adenocarcinoma
+1388,RIGHT,T,C147,unosrted,MLH1 and PMS2 deficient,12,1,Adenocarcinoma
+1389,RIGHT,T,C147,unosrted,MLH1 and PMS2 deficient,13,14,Adenocarcinoma
+1390,RIGHT,T,C147,unosrted,MLH1 and PMS2 deficient,15,5,Adenocarcinoma
+1391,RIGHT,T,C147,unosrted,MLH1 and PMS2 deficient,17,1,Adenocarcinoma
+1393,RIGHT,T,C149,CD45pMACS,MSS,1,5,Adenocarcinoma
+1394,RIGHT,T,C149,CD45pMACS,MSS,2,3,Adenocarcinoma
+1395,RIGHT,T,C149,CD45pMACS,MSS,3,58,Adenocarcinoma
+1396,RIGHT,T,C149,CD45pMACS,MSS,4,6,Adenocarcinoma
+1397,RIGHT,T,C149,CD45pMACS,MSS,5,4,Adenocarcinoma
+1398,RIGHT,T,C149,CD45pMACS,MSS,6,12,Adenocarcinoma
+1399,RIGHT,T,C149,CD45pMACS,MSS,8,27,Adenocarcinoma
+1400,RIGHT,T,C149,CD45pMACS,MSS,9,9,Adenocarcinoma
+1401,RIGHT,T,C149,CD45pMACS,MSS,17,2,Adenocarcinoma
+1403,RIGHT,T,C149,unosrted,MSS,1,13,Adenocarcinoma
+1404,RIGHT,T,C149,unosrted,MSS,2,2,Adenocarcinoma
+1405,RIGHT,T,C149,unosrted,MSS,3,186,Adenocarcinoma
+1406,RIGHT,T,C149,unosrted,MSS,4,25,Adenocarcinoma
+1407,RIGHT,T,C149,unosrted,MSS,5,19,Adenocarcinoma
+1408,RIGHT,T,C149,unosrted,MSS,6,20,Adenocarcinoma
+1409,RIGHT,T,C149,unosrted,MSS,8,91,Adenocarcinoma
+1410,RIGHT,T,C149,unosrted,MSS,9,28,Adenocarcinoma
+1411,RIGHT,T,C149,unosrted,MSS,12,15,Adenocarcinoma
+1412,RIGHT,T,C149,unosrted,MSS,13,1,Adenocarcinoma
+1413,RIGHT,T,C149,unosrted,MSS,15,1,Adenocarcinoma
+1414,RIGHT,T,C149,unosrted,MSS,17,7,Adenocarcinoma
+1415,RIGHT,T,C149,unosrted,MSS,22,3,Adenocarcinoma
+1417,RIGHT,T,C151,unosrted,MLH1 and PMS2 deficient,1,149,Adenocarcinoma
+1418,RIGHT,T,C151,unosrted,MLH1 and PMS2 deficient,2,82,Adenocarcinoma
+1419,RIGHT,T,C151,unosrted,MLH1 and PMS2 deficient,3,1,Adenocarcinoma
+1420,RIGHT,T,C151,unosrted,MLH1 and PMS2 deficient,8,1,Adenocarcinoma
+1421,RIGHT,T,C151,unosrted,MLH1 and PMS2 deficient,15,7,Adenocarcinoma
+1422,RIGHT,T,C151,unosrted,MLH1 and PMS2 deficient,19,3,Adenocarcinoma
+1423,RIGHT,T,C151,unosrted,MLH1 and PMS2 deficient,20,3,Adenocarcinoma
+1425,RIGHT,T,C152,unosrted,MLH1 and PMS2 deficient,1,215,Adenocarcinoma
+1426,RIGHT,T,C152,unosrted,MLH1 and PMS2 deficient,2,201,Adenocarcinoma
+1427,RIGHT,T,C152,unosrted,MLH1 and PMS2 deficient,4,45,Adenocarcinoma
+1428,RIGHT,T,C152,unosrted,MLH1 and PMS2 deficient,5,26,Adenocarcinoma
+1429,RIGHT,T,C152,unosrted,MLH1 and PMS2 deficient,6,15,Adenocarcinoma
+1430,RIGHT,T,C152,unosrted,MLH1 and PMS2 deficient,7,2,Adenocarcinoma
+1431,RIGHT,T,C152,unosrted,MLH1 and PMS2 deficient,8,2,Adenocarcinoma
+1432,RIGHT,T,C152,unosrted,MLH1 and PMS2 deficient,9,37,Adenocarcinoma
+1433,RIGHT,T,C152,unosrted,MLH1 and PMS2 deficient,12,11,Adenocarcinoma
+1434,RIGHT,T,C152,unosrted,MLH1 and PMS2 deficient,13,2,Adenocarcinoma
+1435,RIGHT,T,C152,unosrted,MLH1 and PMS2 deficient,15,5,Adenocarcinoma
+1436,RIGHT,T,C152,unosrted,MLH1 and PMS2 deficient,17,19,Adenocarcinoma
+1437,RIGHT,T,C152,unosrted,MLH1 and PMS2 deficient,22,1,Adenocarcinoma
+1439,RIGHT,T,C154,unosrted,MLH1 and PMS2 deficient,1,112,Adenocarcinoma
+1440,RIGHT,T,C154,unosrted,MLH1 and PMS2 deficient,2,162,Adenocarcinoma
+1441,RIGHT,T,C154,unosrted,MLH1 and PMS2 deficient,4,5,Adenocarcinoma
+1442,RIGHT,T,C154,unosrted,MLH1 and PMS2 deficient,5,3,Adenocarcinoma
+1443,RIGHT,T,C154,unosrted,MLH1 and PMS2 deficient,6,3,Adenocarcinoma
+1444,RIGHT,T,C154,unosrted,MLH1 and PMS2 deficient,9,120,Adenocarcinoma
+1445,RIGHT,T,C154,unosrted,MLH1 and PMS2 deficient,12,1,Adenocarcinoma
+1446,RIGHT,T,C154,unosrted,MLH1 and PMS2 deficient,13,777,Adenocarcinoma
+1447,RIGHT,T,C154,unosrted,MLH1 and PMS2 deficient,19,30,Adenocarcinoma
+1449,RIGHT,T,C155,unosrted,MSS,1,40,Adenocarcinoma
+1450,RIGHT,T,C155,unosrted,MSS,2,49,Adenocarcinoma
+1451,RIGHT,T,C155,unosrted,MSS,3,48,Adenocarcinoma
+1452,RIGHT,T,C155,unosrted,MSS,4,16,Adenocarcinoma
+1453,RIGHT,T,C155,unosrted,MSS,5,5,Adenocarcinoma
+1454,RIGHT,T,C155,unosrted,MSS,6,5,Adenocarcinoma
+1455,RIGHT,T,C155,unosrted,MSS,7,1,Adenocarcinoma
+1456,RIGHT,T,C155,unosrted,MSS,8,82,Adenocarcinoma
+1457,RIGHT,T,C155,unosrted,MSS,9,15,Adenocarcinoma
+1458,RIGHT,T,C155,unosrted,MSS,10,5,Adenocarcinoma
+1459,RIGHT,T,C155,unosrted,MSS,11,1,Adenocarcinoma
+1460,RIGHT,T,C155,unosrted,MSS,12,2,Adenocarcinoma
+1461,RIGHT,T,C155,unosrted,MSS,13,1,Adenocarcinoma
+1462,RIGHT,T,C155,unosrted,MSS,15,18,Adenocarcinoma
+1463,RIGHT,T,C155,unosrted,MSS,18,30,Adenocarcinoma
+1464,RIGHT,T,C155,unosrted,MSS,22,3,Adenocarcinoma
+1466,RIGHT,T,C156,CD45pMACS,MLH1 and PMS2 deficient,1,2,Adenocarcinoma
+1467,RIGHT,T,C156,CD45pMACS,MLH1 and PMS2 deficient,2,6,Adenocarcinoma
+1468,RIGHT,T,C156,CD45pMACS,MLH1 and PMS2 deficient,4,1,Adenocarcinoma
+1469,RIGHT,T,C156,CD45pMACS,MLH1 and PMS2 deficient,6,1,Adenocarcinoma
+1470,RIGHT,T,C156,CD45pMACS,MLH1 and PMS2 deficient,9,1,Adenocarcinoma
+1471,RIGHT,T,C156,CD45pMACS,MLH1 and PMS2 deficient,19,1,Adenocarcinoma
+1473,RIGHT,T,C156,unosrted,MLH1 and PMS2 deficient,1,47,Adenocarcinoma
+1474,RIGHT,T,C156,unosrted,MLH1 and PMS2 deficient,2,81,Adenocarcinoma
+1475,RIGHT,T,C156,unosrted,MLH1 and PMS2 deficient,4,14,Adenocarcinoma
+1476,RIGHT,T,C156,unosrted,MLH1 and PMS2 deficient,5,11,Adenocarcinoma
+1477,RIGHT,T,C156,unosrted,MLH1 and PMS2 deficient,6,28,Adenocarcinoma
+1478,RIGHT,T,C156,unosrted,MLH1 and PMS2 deficient,8,2,Adenocarcinoma
+1479,RIGHT,T,C156,unosrted,MLH1 and PMS2 deficient,9,6,Adenocarcinoma
+1480,RIGHT,T,C156,unosrted,MLH1 and PMS2 deficient,10,2,Adenocarcinoma
+1481,RIGHT,T,C156,unosrted,MLH1 and PMS2 deficient,12,7,Adenocarcinoma
+1482,RIGHT,T,C156,unosrted,MLH1 and PMS2 deficient,13,18,Adenocarcinoma
+1483,RIGHT,T,C156,unosrted,MLH1 and PMS2 deficient,15,1,Adenocarcinoma
+1484,RIGHT,T,C156,unosrted,MLH1 and PMS2 deficient,18,2,Adenocarcinoma
+1485,RIGHT,T,C156,unosrted,MLH1 and PMS2 deficient,20,1,Adenocarcinoma
+1486,RIGHT,T,C156,unosrted,MLH1 and PMS2 deficient,22,4,Adenocarcinoma
+1488,RIGHT,T,C158,CD45pMACS,MLH1 and PMS2 deficient,1,20,Adenocarcinoma
+1489,RIGHT,T,C158,CD45pMACS,MLH1 and PMS2 deficient,2,3,Adenocarcinoma
+1490,RIGHT,T,C158,CD45pMACS,MLH1 and PMS2 deficient,9,5,Adenocarcinoma
+1491,RIGHT,T,C158,CD45pMACS,MLH1 and PMS2 deficient,13,57,Adenocarcinoma
+1492,RIGHT,T,C158,CD45pMACS,MLH1 and PMS2 deficient,15,1,Adenocarcinoma
+1494,RIGHT,T,C158,unosrted,MLH1 and PMS2 deficient,1,53,Adenocarcinoma
+1495,RIGHT,T,C158,unosrted,MLH1 and PMS2 deficient,2,13,Adenocarcinoma
+1496,RIGHT,T,C158,unosrted,MLH1 and PMS2 deficient,9,14,Adenocarcinoma
+1497,RIGHT,T,C158,unosrted,MLH1 and PMS2 deficient,13,275,Adenocarcinoma
+1499,RIGHT,T,C159,CD45pMACS,MSS,1,4,Adenocarcinoma
+1500,RIGHT,T,C159,CD45pMACS,MSS,2,8,Adenocarcinoma
+1501,RIGHT,T,C159,CD45pMACS,MSS,13,5,Adenocarcinoma
+1502,RIGHT,T,C159,CD45pMACS,MSS,18,5,Adenocarcinoma
+1504,RIGHT,T,C159,unosrted,MSS,1,20,Adenocarcinoma
+1505,RIGHT,T,C159,unosrted,MSS,2,36,Adenocarcinoma
+1506,RIGHT,T,C159,unosrted,MSS,3,7,Adenocarcinoma
+1507,RIGHT,T,C159,unosrted,MSS,4,1,Adenocarcinoma
+1508,RIGHT,T,C159,unosrted,MSS,8,26,Adenocarcinoma
+1509,RIGHT,T,C159,unosrted,MSS,9,3,Adenocarcinoma
+1510,RIGHT,T,C159,unosrted,MSS,10,2,Adenocarcinoma
+1511,RIGHT,T,C159,unosrted,MSS,13,28,Adenocarcinoma
+1512,RIGHT,T,C159,unosrted,MSS,15,3,Adenocarcinoma
+1513,RIGHT,T,C159,unosrted,MSS,16,1,Adenocarcinoma
+1514,RIGHT,T,C159,unosrted,MSS,18,8,Adenocarcinoma
+1515,RIGHT,T,C159,unosrted,MSS,20,3,Adenocarcinoma
+1516,RIGHT,T,C159,unosrted,MSS,21,1,Adenocarcinoma
+1518,RIGHT,T,C160,unosrted,MSS,1,13,Adenocarcinoma
+1519,RIGHT,T,C160,unosrted,MSS,2,10,Adenocarcinoma
+1520,RIGHT,T,C160,unosrted,MSS,4,7,Adenocarcinoma
+1521,RIGHT,T,C160,unosrted,MSS,5,9,Adenocarcinoma
+1522,RIGHT,T,C160,unosrted,MSS,6,1,Adenocarcinoma
+1523,RIGHT,T,C160,unosrted,MSS,9,3,Adenocarcinoma
+1524,RIGHT,T,C160,unosrted,MSS,13,2,Adenocarcinoma
+1525,RIGHT,T,C160,unosrted,MSS,15,13,Adenocarcinoma
+1526,RIGHT,T,C160,unosrted,MSS,16,1,Adenocarcinoma
+1527,RIGHT,T,C160,unosrted,MSS,18,2,Adenocarcinoma
+1528,RIGHT,T,C160,unosrted,MSS,21,1062,Adenocarcinoma
+1529,RIGHT,T,C160,unosrted,MSS,22,1,Adenocarcinoma
+1531,RIGHT,T,C161,unosrted,MSS,1,6,Adenocarcinoma
+1532,RIGHT,T,C161,unosrted,MSS,2,9,Adenocarcinoma
+1533,RIGHT,T,C161,unosrted,MSS,3,487,Adenocarcinoma
+1534,RIGHT,T,C161,unosrted,MSS,4,4,Adenocarcinoma
+1535,RIGHT,T,C161,unosrted,MSS,5,2,Adenocarcinoma
+1536,RIGHT,T,C161,unosrted,MSS,6,8,Adenocarcinoma
+1537,RIGHT,T,C161,unosrted,MSS,8,341,Adenocarcinoma
+1538,RIGHT,T,C161,unosrted,MSS,9,9,Adenocarcinoma
+1539,RIGHT,T,C161,unosrted,MSS,10,9,Adenocarcinoma
+1540,RIGHT,T,C161,unosrted,MSS,15,2,Adenocarcinoma
+1541,RIGHT,T,C161,unosrted,MSS,18,4,Adenocarcinoma
+1542,RIGHT,T,C161,unosrted,MSS,20,1,Adenocarcinoma
+1544,RIGHT,T,C162,CD45pMACS,MSS,1,11,Adenocarcinoma
+1545,RIGHT,T,C162,CD45pMACS,MSS,2,7,Adenocarcinoma
+1546,RIGHT,T,C162,CD45pMACS,MSS,4,16,Adenocarcinoma
+1547,RIGHT,T,C162,CD45pMACS,MSS,5,26,Adenocarcinoma
+1548,RIGHT,T,C162,CD45pMACS,MSS,6,7,Adenocarcinoma
+1549,RIGHT,T,C162,CD45pMACS,MSS,8,4,Adenocarcinoma
+1550,RIGHT,T,C162,CD45pMACS,MSS,9,18,Adenocarcinoma
+1551,RIGHT,T,C162,CD45pMACS,MSS,10,1535,Adenocarcinoma
+1552,RIGHT,T,C162,CD45pMACS,MSS,12,1,Adenocarcinoma
+1553,RIGHT,T,C162,CD45pMACS,MSS,13,2,Adenocarcinoma
+1554,RIGHT,T,C162,CD45pMACS,MSS,15,3,Adenocarcinoma
+1555,RIGHT,T,C162,CD45pMACS,MSS,17,17,Adenocarcinoma
+1556,RIGHT,T,C162,CD45pMACS,MSS,18,3,Adenocarcinoma
+1557,RIGHT,T,C162,CD45pMACS,MSS,22,28,Adenocarcinoma
+1559,RIGHT,T,C162,unosrted,MSS,1,8,Adenocarcinoma
+1560,RIGHT,T,C162,unosrted,MSS,2,5,Adenocarcinoma
+1561,RIGHT,T,C162,unosrted,MSS,3,11,Adenocarcinoma
+1562,RIGHT,T,C162,unosrted,MSS,4,16,Adenocarcinoma
+1563,RIGHT,T,C162,unosrted,MSS,5,18,Adenocarcinoma
+1564,RIGHT,T,C162,unosrted,MSS,6,9,Adenocarcinoma
+1565,RIGHT,T,C162,unosrted,MSS,8,18,Adenocarcinoma
+1566,RIGHT,T,C162,unosrted,MSS,9,56,Adenocarcinoma
+1567,RIGHT,T,C162,unosrted,MSS,10,2074,Adenocarcinoma
+1568,RIGHT,T,C162,unosrted,MSS,13,2,Adenocarcinoma
+1569,RIGHT,T,C162,unosrted,MSS,15,2,Adenocarcinoma
+1570,RIGHT,T,C162,unosrted,MSS,17,62,Adenocarcinoma
+1571,RIGHT,T,C162,unosrted,MSS,18,1,Adenocarcinoma
+1572,RIGHT,T,C162,unosrted,MSS,20,4,Adenocarcinoma
+1573,RIGHT,T,C162,unosrted,MSS,22,159,Adenocarcinoma
+1575,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,1,326,Medullary
+1576,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,2,159,Medullary
+1577,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,4,29,Medullary
+1578,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,5,22,Medullary
+1579,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,6,44,Medullary
+1580,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,7,2,Medullary
+1581,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,8,2,Medullary
+1582,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,9,56,Medullary
+1583,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,10,3,Medullary
+1584,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,12,1,Medullary
+1585,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,13,67,Medullary
+1586,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,17,5,Medullary
+1587,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,18,22,Medullary
+1588,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,19,5,Medullary
+1589,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,20,4,Medullary
+1590,RIGHT,T,C163,unosrted,MSH2 and MSH6 deficient,22,7,Medullary
+1592,RIGHT,T,C164,unosrted,Isolated MSH6 deficiency,1,124,Adenocarcinoma
+1593,RIGHT,T,C164,unosrted,Isolated MSH6 deficiency,2,105,Adenocarcinoma
+1594,RIGHT,T,C164,unosrted,Isolated MSH6 deficiency,3,3,Adenocarcinoma
+1595,RIGHT,T,C164,unosrted,Isolated MSH6 deficiency,4,11,Adenocarcinoma
+1596,RIGHT,T,C164,unosrted,Isolated MSH6 deficiency,5,11,Adenocarcinoma
+1597,RIGHT,T,C164,unosrted,Isolated MSH6 deficiency,6,8,Adenocarcinoma
+1598,RIGHT,T,C164,unosrted,Isolated MSH6 deficiency,8,7,Adenocarcinoma
+1599,RIGHT,T,C164,unosrted,Isolated MSH6 deficiency,9,4,Adenocarcinoma
+1600,RIGHT,T,C164,unosrted,Isolated MSH6 deficiency,10,1,Adenocarcinoma
+1601,RIGHT,T,C164,unosrted,Isolated MSH6 deficiency,12,3,Adenocarcinoma
+1602,RIGHT,T,C164,unosrted,Isolated MSH6 deficiency,13,9,Adenocarcinoma
+1603,RIGHT,T,C164,unosrted,Isolated MSH6 deficiency,18,612,Adenocarcinoma
+1604,RIGHT,T,C164,unosrted,Isolated MSH6 deficiency,19,2,Adenocarcinoma
+1605,RIGHT,T,C164,unosrted,Isolated MSH6 deficiency,22,3,Adenocarcinoma
+1606,RIGHT,T,C165,CD45pMACS,Isolated MSH6 deficiency,9,2,Adenocarcinoma
+1607,RIGHT,T,C165,CD45pMACS,Isolated MSH6 deficiency,13,121,Adenocarcinoma
+1609,RIGHT,T,C165,unosrted,Isolated MSH6 deficiency,1,3,Adenocarcinoma
+1610,RIGHT,T,C165,unosrted,Isolated MSH6 deficiency,2,1,Adenocarcinoma
+1611,RIGHT,T,C165,unosrted,Isolated MSH6 deficiency,9,2,Adenocarcinoma
+1612,RIGHT,T,C165,unosrted,Isolated MSH6 deficiency,13,510,Adenocarcinoma
+1613,RIGHT,T,C165,unosrted,Isolated MSH6 deficiency,18,1,Adenocarcinoma
+1615,RIGHT,T,C167,unosrted,PMS2 deficiency and markedly reduced MLH1,1,81,Adenocarcinoma
+1616,RIGHT,T,C167,unosrted,PMS2 deficiency and markedly reduced MLH1,2,29,Adenocarcinoma
+1617,RIGHT,T,C167,unosrted,PMS2 deficiency and markedly reduced MLH1,19,26,Adenocarcinoma
+1618,RIGHT,T,C167,unosrted,PMS2 deficiency and markedly reduced MLH1,20,1,Adenocarcinoma
+1620,RIGHT,T,C168,unosrted,MLH1 and PMS2 deficient,1,247,Adenocarcinoma;Mucinous
+1621,RIGHT,T,C168,unosrted,MLH1 and PMS2 deficient,2,226,Adenocarcinoma;Mucinous
+1622,RIGHT,T,C168,unosrted,MLH1 and PMS2 deficient,13,6,Adenocarcinoma;Mucinous
+1623,RIGHT,T,C168,unosrted,MLH1 and PMS2 deficient,19,1,Adenocarcinoma;Mucinous
+1625,RIGHT,T,C169,unosrted,MSH2 and MSH6 deficient,1,131,Adenocarcinoma
+1626,RIGHT,T,C169,unosrted,MSH2 and MSH6 deficient,2,107,Adenocarcinoma
+1627,RIGHT,T,C169,unosrted,MSH2 and MSH6 deficient,15,4,Adenocarcinoma
+1628,RIGHT,T,C169,unosrted,MSH2 and MSH6 deficient,20,1,Adenocarcinoma
+1630,RIGHT,T,C170,CD45pMACS,MLH1 and PMS2 deficient,1,258,Adenocarcinoma
+1631,RIGHT,T,C170,CD45pMACS,MLH1 and PMS2 deficient,2,151,Adenocarcinoma
+1632,RIGHT,T,C170,CD45pMACS,MLH1 and PMS2 deficient,8,3,Adenocarcinoma
+1633,RIGHT,T,C170,CD45pMACS,MLH1 and PMS2 deficient,15,3,Adenocarcinoma
+1635,RIGHT,T,C170,unosrted,MLH1 and PMS2 deficient,1,506,Adenocarcinoma
+1636,RIGHT,T,C170,unosrted,MLH1 and PMS2 deficient,2,407,Adenocarcinoma
+1637,RIGHT,T,C170,unosrted,MLH1 and PMS2 deficient,3,1,Adenocarcinoma
+1638,RIGHT,T,C170,unosrted,MLH1 and PMS2 deficient,8,8,Adenocarcinoma
+1639,RIGHT,T,C170,unosrted,MLH1 and PMS2 deficient,15,9,Adenocarcinoma
+1640,RIGHT,T,C170,unosrted,MLH1 and PMS2 deficient,20,1,Adenocarcinoma
+1642,RIGHT,T,C172,unosrted,MSS,1,88,Adenocarcinoma
+1643,RIGHT,T,C172,unosrted,MSS,2,112,Adenocarcinoma
+1644,RIGHT,T,C172,unosrted,MSS,3,1,Adenocarcinoma
+1645,RIGHT,T,C172,unosrted,MSS,6,1,Adenocarcinoma
+1646,RIGHT,T,C172,unosrted,MSS,9,5,Adenocarcinoma
+1647,RIGHT,T,C172,unosrted,MSS,12,2,Adenocarcinoma
+1648,RIGHT,T,C172,unosrted,MSS,13,6,Adenocarcinoma
+1649,RIGHT,T,C172,unosrted,MSS,18,12,Adenocarcinoma
+1651,RIGHT,TA,C130,CD45pMACS,MLH1 and PMS2 deficient,1,250,Adenocarcinoma;Mucinous
+1652,RIGHT,TA,C130,CD45pMACS,MLH1 and PMS2 deficient,2,71,Adenocarcinoma;Mucinous
+1653,RIGHT,TA,C130,CD45pMACS,MLH1 and PMS2 deficient,4,6,Adenocarcinoma;Mucinous
+1654,RIGHT,TA,C130,CD45pMACS,MLH1 and PMS2 deficient,5,2,Adenocarcinoma;Mucinous
+1655,RIGHT,TA,C130,CD45pMACS,MLH1 and PMS2 deficient,13,2,Adenocarcinoma;Mucinous
+1656,RIGHT,TA,C130,CD45pMACS,MLH1 and PMS2 deficient,19,2,Adenocarcinoma;Mucinous
+1658,RIGHT,TA,C130,unosrted,MLH1 and PMS2 deficient,1,339,Adenocarcinoma;Mucinous
+1659,RIGHT,TA,C130,unosrted,MLH1 and PMS2 deficient,2,173,Adenocarcinoma;Mucinous
+1660,RIGHT,TA,C130,unosrted,MLH1 and PMS2 deficient,4,11,Adenocarcinoma;Mucinous
+1661,RIGHT,TA,C130,unosrted,MLH1 and PMS2 deficient,5,2,Adenocarcinoma;Mucinous
+1662,RIGHT,TA,C130,unosrted,MLH1 and PMS2 deficient,6,2,Adenocarcinoma;Mucinous
+1663,RIGHT,TA,C130,unosrted,MLH1 and PMS2 deficient,9,2,Adenocarcinoma;Mucinous
+1664,RIGHT,TA,C130,unosrted,MLH1 and PMS2 deficient,12,3,Adenocarcinoma;Mucinous
+1665,RIGHT,TA,C130,unosrted,MLH1 and PMS2 deficient,13,15,Adenocarcinoma;Mucinous
+1666,RIGHT,TA,C130,unosrted,MLH1 and PMS2 deficient,22,1,Adenocarcinoma;Mucinous
+1668,RIGHT,TA,C171,CD45pMACS,MSS,1,16,Adenocarcinoma
+1669,RIGHT,TA,C171,CD45pMACS,MSS,2,35,Adenocarcinoma
+1670,RIGHT,TA,C171,CD45pMACS,MSS,3,2,Adenocarcinoma
+1671,RIGHT,TA,C171,CD45pMACS,MSS,5,2,Adenocarcinoma
+1672,RIGHT,TA,C171,CD45pMACS,MSS,8,1,Adenocarcinoma
+1673,RIGHT,TA,C171,CD45pMACS,MSS,9,1,Adenocarcinoma
+1674,RIGHT,TA,C171,CD45pMACS,MSS,13,1,Adenocarcinoma
+1675,RIGHT,TA,C171,CD45pMACS,MSS,18,205,Adenocarcinoma
+1677,RIGHT,TA,C171,unosrted,MSS,1,20,Adenocarcinoma
+1678,RIGHT,TA,C171,unosrted,MSS,2,52,Adenocarcinoma
+1679,RIGHT,TA,C171,unosrted,MSS,3,10,Adenocarcinoma
+1680,RIGHT,TA,C171,unosrted,MSS,8,6,Adenocarcinoma
+1681,RIGHT,TA,C171,unosrted,MSS,9,5,Adenocarcinoma
+1682,RIGHT,TA,C171,unosrted,MSS,13,4,Adenocarcinoma
+1683,RIGHT,TA,C171,unosrted,MSS,15,2,Adenocarcinoma
+1684,RIGHT,TA,C171,unosrted,MSS,18,307,Adenocarcinoma
+1685,RIGHT,TA,C171,unosrted,MSS,22,4,Adenocarcinoma
+1687,RIGHT,TB,C130,CD45pMACS,MLH1 and PMS2 deficient,1,400,Adenocarcinoma;Mucinous
+1688,RIGHT,TB,C130,CD45pMACS,MLH1 and PMS2 deficient,2,120,Adenocarcinoma;Mucinous
+1690,RIGHT,TB,C130,unosrted,MLH1 and PMS2 deficient,1,465,Adenocarcinoma;Mucinous
+1691,RIGHT,TB,C130,unosrted,MLH1 and PMS2 deficient,2,270,Adenocarcinoma;Mucinous
+1692,RIGHT,TB,C130,unosrted,MLH1 and PMS2 deficient,8,1,Adenocarcinoma;Mucinous
+1693,RIGHT,TB,C130,unosrted,MLH1 and PMS2 deficient,13,1,Adenocarcinoma;Mucinous
+1694,RIGHT,TB,C130,unosrted,MLH1 and PMS2 deficient,15,1,Adenocarcinoma;Mucinous
+1695,RIGHT,TB,C130,unosrted,MLH1 and PMS2 deficient,19,2,Adenocarcinoma;Mucinous
+1696,RIGHT,TB,C130,unosrted,MLH1 and PMS2 deficient,22,1,Adenocarcinoma;Mucinous
+1698,RIGHT,TB,C171,CD45pMACS,MSS,1,35,Adenocarcinoma
+1699,RIGHT,TB,C171,CD45pMACS,MSS,2,48,Adenocarcinoma
+1700,RIGHT,TB,C171,CD45pMACS,MSS,3,38,Adenocarcinoma
+1701,RIGHT,TB,C171,CD45pMACS,MSS,4,14,Adenocarcinoma
+1702,RIGHT,TB,C171,CD45pMACS,MSS,5,7,Adenocarcinoma
+1703,RIGHT,TB,C171,CD45pMACS,MSS,6,2,Adenocarcinoma
+1704,RIGHT,TB,C171,CD45pMACS,MSS,8,14,Adenocarcinoma
+1705,RIGHT,TB,C171,CD45pMACS,MSS,9,4,Adenocarcinoma
+1706,RIGHT,TB,C171,CD45pMACS,MSS,11,1,Adenocarcinoma
+1707,RIGHT,TB,C171,CD45pMACS,MSS,12,1,Adenocarcinoma
+1708,RIGHT,TB,C171,CD45pMACS,MSS,15,1,Adenocarcinoma
+1709,RIGHT,TB,C171,CD45pMACS,MSS,18,132,Adenocarcinoma
+1711,RIGHT,TB,C171,unosrted,MSS,1,25,Adenocarcinoma
+1712,RIGHT,TB,C171,unosrted,MSS,2,83,Adenocarcinoma
+1713,RIGHT,TB,C171,unosrted,MSS,3,55,Adenocarcinoma
+1714,RIGHT,TB,C171,unosrted,MSS,4,7,Adenocarcinoma
+1715,RIGHT,TB,C171,unosrted,MSS,5,3,Adenocarcinoma
+1716,RIGHT,TB,C171,unosrted,MSS,8,20,Adenocarcinoma
+1717,RIGHT,TB,C171,unosrted,MSS,9,6,Adenocarcinoma
+1718,RIGHT,TB,C171,unosrted,MSS,11,2,Adenocarcinoma
+1719,RIGHT,TB,C171,unosrted,MSS,12,2,Adenocarcinoma
+1720,RIGHT,TB,C171,unosrted,MSS,13,3,Adenocarcinoma
+1721,RIGHT,TB,C171,unosrted,MSS,15,1,Adenocarcinoma
+1722,RIGHT,TB,C171,unosrted,MSS,18,116,Adenocarcinoma
+1723,RIGHT,TB,C171,unosrted,MSS,20,1,Adenocarcinoma
