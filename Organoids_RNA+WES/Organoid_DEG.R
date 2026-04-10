@@ -1,7 +1,7 @@
 #DEG for organoids data####
 setwd("./job_example/")
-exp=read.csv("total_count.csv")
-gro=read.csv("group.csv")
+exp=read.csv("RNA-seq_raw.csv")
+gro=read.csv("FGA_organoid_group.csv")
 exp=exp[,-1]
 exp=exp[rowSums(exp[,c(2,17)])!=0,]
 library(limma)
@@ -22,7 +22,7 @@ rownames(gro)=gro[,1]
 gro=gro[,-1,drop=F]
 gro2<-factor(t(gro$group))
 colnames(gro)[1]="group"
-gro$group<-relevel(gro$group,ref = 'classic MSS')###'classic MSS' refers to high FGA MSS samples
+gro$group<-relevel(gro$group,ref = 'FGA high')###'classic MSS' refers to high FGA MSS samples
 exp2=as.data.frame(lapply(exp2,as.numeric))
 rownames(exp2)=rownames(exp)
 
@@ -45,6 +45,6 @@ mode(count) <- "integer"
 count=count[complete.cases(count),]
 dds<- DESeqDataSetFromMatrix(count, colData =gro, design = ~ group)
 dds_DE<-DESeq(dds)
-res_DE <- results(dds_DE,contrast=c("group","MSI-MSS","classic MSS"))
+res_DE <- results(dds_DE,contrast=c("group","FGA low","FGA high"))
 res_DE=as.data.frame(res_DE)
-write.csv(res_DE, 'DEseq+MSI-MSS+classic MSS.csv')
+write.csv(res_DE, 'DEseq+FGA low+FGA high.csv')
