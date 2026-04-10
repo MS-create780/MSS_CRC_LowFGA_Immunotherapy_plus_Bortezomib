@@ -1,6 +1,6 @@
 #Differential gene_DEG####
 data=read.csv("./job_example/readcount.csv")
-group=read.csv("./job_example/clinical.csv",header=F,encoding='UTF-8')
+group=read.csv("./job_example/CRC_patient_info.csv",header=F,encoding='UTF-8')
 colnames(group)=group[1,]
 group=group[-1,]
 group=subset(group,!is.na(group$I_number))
