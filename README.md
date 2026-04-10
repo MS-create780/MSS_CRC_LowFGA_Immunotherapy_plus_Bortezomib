@@ -16,7 +16,7 @@ The raw sequencing data have been deposited in the China National GeneBankSequen
 Due to the large file size, the processed Seurat objects for single-cell data are not hosted in this GitHub repository. These data are **available from the first author** (Please contact: mengyuanshipku@gmail.com).
 
 ## ## 3. Code Structure & Modules
-The analysis scripts are organized by experimental models and analysis types. There is no strict execution order; each script can be reviewed for its specific logic.
+The analysis scripts are organized by experimental models and analysis types. There is no strict execution order; each script can be reviewed for its specific logic and parameters.
 
 ## ## 4. Environment & Dependencies
 These scripts were developed and tested in
