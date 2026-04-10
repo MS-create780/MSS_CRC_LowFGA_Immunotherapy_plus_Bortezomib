@@ -1,5 +1,5 @@
 #pathway analysis####
-RNA=read.csv("./job_example/FGA0.35+DEseq+low+high.csv")
+RNA=read.csv("./job_example/FGA0.34+DEseq+low+high.csv")
 diff=RNA
 library(enrichplot)
 library(clusterProfiler)
@@ -15,4 +15,4 @@ hallmarks <- read.gmt("./job_example/c2.all.v2022.1.Hs.symbols.gmt")
 y <- GSEA(geneList,TERM2GENE =hallmarks,pvalueCutoff=1,eps = 0,nPermSimple=10000)
 head(y)
 y2=as.data.frame(y)
-write.csv(y,"./job_example/FGA0.35+RNA+LOW VS HIGH+hallmarker.csv")
+write.csv(y,"./job_example/FGA0.34+RNA+LOW VS HIGH+hallmarker.csv")
