@@ -5,8 +5,8 @@ colnames(group)=group[1,]
 group=group[-1,]
 group=subset(group,!is.na(group$I_number))
 group=group[-41,]
-group$group[group$FGA<=0.35]="low"
-group$group[group$FGA>0.35]="high"
+group$group[group$FGA<=0.34]="low"
+group$group[group$FGA>0.34]="high"
 group=subset(group,MSI.state=="MSS")
 group=group[,c(4,80)]
 p=group[,1]
