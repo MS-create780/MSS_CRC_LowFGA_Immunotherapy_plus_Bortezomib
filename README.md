@@ -1,5 +1,5 @@
 # MSS_CRC_LowFGA_Immunotherapy_plus_Bortezomib
-Code and analysis pipeline for the study: "Microsatellite-stable Colorectal Cancer with Low Chromosomal Instability Responds to Immunotherapy and Enhanced by Proteasome Inhibition"
+Code and analysis for the study: "Microsatellite-stable Colorectal Cancer with Low Chromosomal Instability Responds to Immunotherapy and Enhanced by Proteasome Inhibition"
 
 This repository contains the R scripts used for data analysis in the study.
 
@@ -11,7 +11,7 @@ The scripts provided here cover the bioinformatic analysis of various experiment
 * **Colorectal cancer cell lines**
 
 ## ## 2. Data Availability
-The raw sequencing data have been deposited in the China National GeneBankSequence Archive (CNSA) database. 
+The sequencing data have been deposited in the China National GeneBankSequence Archive (CNSA) database. 
 
 Due to the large file size, the processed Seurat objects for single-cell data are not hosted in this GitHub repository. These data are **available from the first author** (Please contact: mengyuanshipku@gmail.com).
 
