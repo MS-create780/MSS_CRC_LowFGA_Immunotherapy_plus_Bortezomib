@@ -42,14 +42,8 @@ for (genes_in_sheet in rownames(data2)) {
 }
 mRNA_expr_for_DESeq <- data2[qualified_genes,]
 count=as.matrix(mRNA_expr_for_DESeq)
-any(count < 0)
-count[count<0] <- 0
-sum(is.na(count))
-which(is.na(count))
-mode(count) <- "integer"
 count=count[complete.cases(count),]
-
 dds<- DESeqDataSetFromMatrix(count, colData =group, design = ~ group)
 dds_DE<-DESeq(dds)
 res_DE <- results(dds_DE,contrast=c("group","low","high"))
-write.csv(res_DE, './job_example/FGA0.35+DEseq+low+high.csv')
+write.csv(res_DE, './job_example/FGA0.34+DEseq+low+high.csv')
