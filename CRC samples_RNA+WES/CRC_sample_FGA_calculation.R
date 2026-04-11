@@ -15,7 +15,7 @@ r=as.data.frame(c(1:16))
 r=as.data.frame(t(r))
 colnames(r)=colnames(CNA)
 for(i in list){
-  p=subset(CNA,CNA$sample_id=="WJ_1")
+  p=subset(CNA,CNA$sample_id=="I6")
   p2=p[-which(duplicated(p$mer)),]
   r=rbind(r,p2)
 }
