@@ -1,6 +1,6 @@
 #FGA####
 setwd("./job_example/")
-####import CNV data for each patient###
+####import filtered CNV data for each patient###
 filenames=dir()
 data=data.frame()
 for (i in filenames){
