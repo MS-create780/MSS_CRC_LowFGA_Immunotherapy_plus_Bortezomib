@@ -16,9 +16,9 @@ p=ggplot(fig, aes(x = log2FoldChange, y = -log10(padj), colour=sig)) +
   geom_vline(xintercept=c(-cut_off_logFC,cut_off_logFC),lty=4,col="black",lwd=0.8) +
   geom_hline(yintercept = -log10(cut_off_qvalue),
              lty=4,col="black",lwd=0.8) +
-  labs(x="Fold Change", y="-log10 (padj)") +
+  labs(x="log2(Fold Change)", y="-log10 (padj)") +
   theme_bw() +
-  ggtitle("MSS with low FGA vs. Classic MSS") +
+  ggtitle("MSS with low FGA vs. high FGA") +
   theme(plot.title = element_text(hjust = 0.5), 
         legend.position="right", 
         legend.title = element_blank() 
