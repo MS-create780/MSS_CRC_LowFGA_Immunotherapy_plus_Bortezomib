@@ -3,7 +3,7 @@ data=read.csv("./job_example/readcount.csv")
 group=read.csv("./job_example/CRC_patient_info.csv",header=F,encoding='UTF-8')
 colnames(group)=group[1,]
 group=group[-1,]
-group=subset(group,!is.na(group$I_number))
+group=subset(group,!is.na(group$ID))
 group=group[-41,]
 group$group[group$FGA<=0.34]="low"
 group$group[group$FGA>0.34]="high"
