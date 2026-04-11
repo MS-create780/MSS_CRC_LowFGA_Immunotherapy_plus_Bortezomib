@@ -37,11 +37,6 @@ for (genes_in_sheet in rownames(exp2)) {
 }
 mRNA_expr_for_DESeq <- exp2[qualified_genes,]
 count=as.matrix(mRNA_expr_for_DESeq)
-any(count < 0)
-count[count<0] <- 0
-sum(is.na(count))
-which(is.na(count))
-mode(count) <- "integer"
 count=count[complete.cases(count),]
 dds<- DESeqDataSetFromMatrix(count, colData =gro, design = ~ group)
 dds_DE<-DESeq(dds)
