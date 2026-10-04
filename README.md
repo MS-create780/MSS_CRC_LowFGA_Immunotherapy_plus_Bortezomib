@@ -1,5 +1,5 @@
 # MSS_CRC_LowFGA_Immunotherapy_plus_Bortezomib
-Code and analysis for the study: "Microsatellite-stable Colorectal Cancer with Low Chromosomal Instability Responds to Immunotherapy and Enhanced by Proteasome Inhibition"
+Code and analysis for the study: "Microsatellite-stable Colorectal Cancer with Low Chromosomal Instability Responds to Immunotherapy and Is Sensitized by Proteasome Inhibition"
 
 This repository contains the R scripts used for data analysis in the study.
 
